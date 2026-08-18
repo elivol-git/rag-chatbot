@@ -206,10 +206,10 @@ def frontend(asset: str = "index.html"):
             ),
             404,
         )
-    target = Path(asset)
-    if not (FRONTEND_DIST / target).is_file():
-        target = Path("index.html")  # SPA fallback
-    return send_from_directory(FRONTEND_DIST, str(target))
+    # Keep the URL's forward slashes: send_from_directory rejects a Windows
+    # backslash path as unsafe, which would 404 every hashed asset.
+    target = asset if (FRONTEND_DIST / asset).is_file() else "index.html"  # SPA fallback
+    return send_from_directory(FRONTEND_DIST, target)
 
 
 if __name__ == "__main__":
