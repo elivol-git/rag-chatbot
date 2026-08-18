@@ -119,6 +119,23 @@ cosine score, and per-stage latency:
 `{"question": "...", "top_k": 8, "source": "wiki-bauhaus.md"}` overrides the
 defaults and restricts retrieval to one document.
 
+`POST /api/ask/stream` runs the same pipeline as Server-Sent Events — this is
+what the UI uses. Retrieval takes milliseconds while an 8B model needs tens of
+seconds, so the retrieved context arrives first and the answer follows token by
+token:
+
+```
+event: meta    data: {"chunks": [...], "grounded": true, "retrieval_ms": 122}
+event: token   data: {"text": "Brutalist"}
+event: token   data: {"text": " architecture"}
+event: done    data: {"llm_ms": 18422, "total_ms": 18544}
+```
+
+```bash
+curl -N -X POST http://127.0.0.1:5000/api/ask/stream \
+  -H "Content-Type: application/json" -d '{"question": "What is a passive house?"}'
+```
+
 ## MCP server
 
 ```bash

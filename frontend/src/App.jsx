@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { askQuestion, getHealth, runIngest } from './api.js'
+import { askQuestionStream, getHealth, runIngest } from './api.js'
 import AskForm from './components/AskForm.jsx'
 import AnswerPanel from './components/AnswerPanel.jsx'
 import HistoryList from './components/HistoryList.jsx'
@@ -21,10 +21,27 @@ export default function App() {
   async function handleAsk(question) {
     setLoading(true)
     setError(null)
+    setResult(null)
+
+    // Built up as events arrive, then stored in history once the stream ends.
+    let streamed = { question, answer: '', chunks: [], grounded: false }
+
     try {
-      const data = await askQuestion(question)
-      setResult(data)
-      setHistory((previous) => [data, ...previous].slice(0, 20))
+      await askQuestionStream(question, {
+        onMeta: (meta) => {
+          streamed = { ...streamed, ...meta, answer: '' }
+          setResult({ ...streamed, streaming: true })
+        },
+        onToken: (text) => {
+          streamed = { ...streamed, answer: streamed.answer + text }
+          setResult({ ...streamed, streaming: true })
+        },
+        onDone: (timings) => {
+          streamed = { ...streamed, ...timings, streaming: false }
+          setResult(streamed)
+          setHistory((previous) => [streamed, ...previous].slice(0, 20))
+        },
+      })
     } catch (err) {
       setError(err.message)
       setResult(null)

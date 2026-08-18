@@ -177,6 +177,22 @@ button.chip:hover:not(:disabled) {
   color: var(--muted);
 }
 
+.caret {
+  display: inline-block;
+  width: 0.55em;
+  height: 1.05em;
+  margin-left: 0.12em;
+  vertical-align: text-bottom;
+  background: var(--accent);
+  animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+
 .metrics {
   display: flex;
   flex-wrap: wrap;

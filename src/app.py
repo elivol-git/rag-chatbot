@@ -6,16 +6,17 @@ build (served from frontend/dist) hit identical paths.
 
 from __future__ import annotations
 
+import json
 import time
 from pathlib import Path
 
-from flask import Flask, jsonify, request, send_from_directory
+from flask import Flask, Response, jsonify, request, send_from_directory
 from flask_cors import CORS
 
 from .config import PROJECT_ROOT, settings
 from .embeddings import EmbeddingError
 from .ingest import ingest
-from .llm import LLMError, chat, ollama_reachable
+from .llm import LLMError, chat, chat_stream, ollama_reachable
 from .prompts import NO_CONTEXT_ANSWER, build_prompt
 from .retrieval import reload_store, retrieve, store_stats
 from .vector_store import DimensionMismatch
@@ -104,6 +105,71 @@ def ask():
             "llm_ms": llm_ms,
             "total_ms": retrieval_ms + llm_ms,
         }
+    )
+
+
+def _sse(event: str, data: dict) -> str:
+    return f"event: {event}\ndata: {json.dumps(data, ensure_ascii=False)}\n\n"
+
+
+@app.post("/api/ask/stream")
+def ask_stream():
+    """Same pipeline as /api/ask, delivered as Server-Sent Events.
+
+    Retrieval finishes in milliseconds while generation takes seconds, so the
+    retrieved context is sent first (event: meta) and the answer follows token
+    by token (event: token), then timings (event: done).
+    """
+    payload = request.get_json(silent=True) or {}
+    question = (payload.get("question") or "").strip()
+    if not question:
+        return jsonify({"error": "question is required"}), 400
+
+    top_k = payload.get("top_k")
+    source_filter = payload.get("source") or None
+    started = time.time()
+
+    # Retrieve before opening the stream so failures are still plain HTTP errors.
+    try:
+        chunks = retrieve(question, top_k=top_k, source_filter=source_filter)
+    except (EmbeddingError, DimensionMismatch) as exc:
+        return jsonify({"error": str(exc)}), 503
+    retrieval_ms = int((time.time() - started) * 1000)
+
+    def generate():
+        yield _sse(
+            "meta",
+            {
+                "question": question,
+                "chunks": [chunk.to_dict() for chunk in chunks],
+                "grounded": bool(chunks),
+                "retrieval_ms": retrieval_ms,
+            },
+        )
+
+        if not chunks:
+            yield _sse("token", {"text": NO_CONTEXT_ANSWER})
+            yield _sse("done", {"llm_ms": 0, "total_ms": retrieval_ms})
+            return
+
+        llm_started = time.time()
+        try:
+            for fragment in chat_stream(build_prompt(question, chunks)):
+                yield _sse("token", {"text": fragment})
+        except LLMError as exc:
+            yield _sse("error", {"error": str(exc)})
+            return
+        llm_ms = int((time.time() - llm_started) * 1000)
+        yield _sse("done", {"llm_ms": llm_ms, "total_ms": retrieval_ms + llm_ms})
+
+    return Response(
+        generate(),
+        mimetype="text/event-stream",
+        headers={
+            "Cache-Control": "no-cache",
+            "Connection": "keep-alive",
+            "X-Accel-Buffering": "no",  # don't let a proxy buffer the stream
+        },
     )
 
 

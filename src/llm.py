@@ -2,7 +2,8 @@
 
 from __future__ import annotations
 
-from typing import Any
+import json
+from typing import Any, Iterator
 
 import requests
 
@@ -36,6 +37,45 @@ def chat(messages: list[dict[str, Any]], temperature: float = 0.2) -> str:
         ) from exc
 
     return response.json().get("message", {}).get("content", "").strip()
+
+
+def chat_stream(messages: list[dict[str, Any]], temperature: float = 0.2) -> Iterator[str]:
+    """Yield answer fragments as Ollama produces them.
+
+    Ollama streams newline-delimited JSON objects; each carries the next piece
+    of the message in message.content, and the final one sets done=true.
+    """
+    url = f"{settings.ollama_host}/api/chat"
+    try:
+        with requests.post(
+            url,
+            json={
+                "model": settings.llm_model,
+                "messages": messages,
+                "stream": True,
+                "options": {"temperature": temperature},
+            },
+            timeout=TIMEOUT,
+            stream=True,
+        ) as response:
+            response.raise_for_status()
+            for line in response.iter_lines(decode_unicode=True):
+                if not line:
+                    continue
+                try:
+                    payload = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                fragment = payload.get("message", {}).get("content", "")
+                if fragment:
+                    yield fragment
+                if payload.get("done"):
+                    return
+    except requests.RequestException as exc:
+        raise LLMError(
+            f"LLM stream from {url} failed ({exc}). "
+            f"Is Ollama running and '{settings.llm_model}' pulled?"
+        ) from exc
 
 
 def ollama_reachable() -> bool:

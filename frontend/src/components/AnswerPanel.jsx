@@ -1,10 +1,12 @@
 import SourceList from './SourceList.jsx'
 
 export default function AnswerPanel({ result, error, loading }) {
-  if (loading) {
+  // While streaming, `result` already holds the retrieved context and the
+  // answer so far, so only the pre-retrieval moment shows a placeholder.
+  if (loading && !result) {
     return (
       <div className="panel">
-        <p className="muted">Retrieving context and generating a grounded answer…</p>
+        <p className="muted">Retrieving context…</p>
       </div>
     )
   }
@@ -20,14 +22,25 @@ export default function AnswerPanel({ result, error, loading }) {
   return (
     <div className="panel">
       <p className="question">{result.question}</p>
-      <p className={`answer${result.grounded ? '' : ' ungrounded'}`}>{result.answer}</p>
+      <p className={`answer${result.grounded ? '' : ' ungrounded'}`}>
+        {result.answer}
+        {result.streaming && <span className="caret" />}
+      </p>
 
       <div className="metrics">
         <span>retrieval {result.retrieval_ms} ms</span>
-        <span>llm {result.llm_ms} ms</span>
-        <span>total {result.total_ms} ms</span>
+        {result.streaming ? (
+          <span>generating…</span>
+        ) : (
+          <>
+            <span>llm {result.llm_ms} ms</span>
+            <span>total {result.total_ms} ms</span>
+          </>
+        )}
         <span>{result.chunks.length} chunks</span>
-        {!result.grounded && <span className="warn">no context above threshold</span>}
+        {!result.grounded && !result.streaming && (
+          <span className="warn">no context above threshold</span>
+        )}
       </div>
 
       <SourceList chunks={result.chunks} />
