@@ -8,7 +8,9 @@ export default function HistoryList({ history, onSelect }) {
         {history.map((entry, index) => (
           <li key={`${entry.question}-${index}`}>
             <button onClick={() => onSelect(entry)}>
-              <span className="history-question">{entry.question}</span>
+              <span className="history-question" dir="auto">
+                {entry.question}
+              </span>
               <span className="history-meta">
                 {entry.chunks.length} chunks · {entry.total_ms} ms
               </span>

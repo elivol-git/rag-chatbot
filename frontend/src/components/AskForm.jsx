@@ -3,8 +3,9 @@ import { useState } from 'react'
 const SAMPLES = [
   "What are Vitruvius' three principles of good architecture?",
   'What defines Brutalist architecture?',
-  'How does a flying buttress work?',
-  'What did the Bauhaus teach?',
+  'מהי אדריכלות מדברית?',
+  'מה זה גג ירוק ומה היתרונות שלו?',
+  'What is reinforced concrete?',
 ]
 
 export default function AskForm({ onAsk, loading }) {
@@ -21,6 +22,7 @@ export default function AskForm({ onAsk, loading }) {
       <div className="ask-row">
         <input
           type="text"
+          dir="auto"
           value={question}
           placeholder="Ask about architecture…"
           onChange={(e) => setQuestion(e.target.value)}
@@ -37,6 +39,7 @@ export default function AskForm({ onAsk, loading }) {
             key={sample}
             type="button"
             className="chip"
+            dir="auto"
             disabled={loading}
             onClick={() => {
               setQuestion(sample)

@@ -21,8 +21,12 @@ export default function AnswerPanel({ result, error, loading }) {
 
   return (
     <div className="panel">
-      <p className="question">{result.question}</p>
-      <p className={`answer${result.grounded ? '' : ' ungrounded'}`}>
+      {/* dir="auto" lets each block pick its own direction from its first
+          strong character, so Hebrew renders RTL and English LTR. */}
+      <p className="question" dir="auto">
+        {result.question}
+      </p>
+      <p className={`answer${result.grounded ? '' : ' ungrounded'}`} dir="auto">
         {result.answer}
         {result.streaming && <span className="caret" />}
       </p>

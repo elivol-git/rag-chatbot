@@ -18,7 +18,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
 
-SUPPORTED_SUFFIXES = {".md", ".txt", ".pdf"}
+SUPPORTED_SUFFIXES = {".md", ".txt", ".pdf", ".docx", ".pptx"}
 _HEADER_KEYS = {"title", "source_url", "license"}
 
 
@@ -56,16 +56,59 @@ def _read_pdf(path: Path) -> str:
     return "\n\n".join(pages)
 
 
+def _read_docx(path: Path) -> str:
+    from docx import Document
+
+    document = Document(str(path))
+    blocks = [paragraph.text.strip() for paragraph in document.paragraphs]
+    # Course handouts keep a lot of their content in tables.
+    for table in document.tables:
+        for row in table.rows:
+            cells = [cell.text.strip() for cell in row.cells if cell.text.strip()]
+            if cells:
+                blocks.append(" | ".join(cells))
+    return "\n\n".join(block for block in blocks if block)
+
+
+def _read_pptx(path: Path) -> str:
+    from pptx import Presentation
+
+    blocks: list[str] = []
+    for number, slide in enumerate(Presentation(str(path)).slides, start=1):
+        texts = [
+            shape.text_frame.text.strip()
+            for shape in slide.shapes
+            if shape.has_text_frame and shape.text_frame.text.strip()
+        ]
+        if texts:
+            # Slide headings carry the topic, so keep slides as their own blocks.
+            blocks.append(f"[Slide {number}] " + "\n".join(texts))
+    return "\n\n".join(blocks)
+
+
+_READERS = {".pdf": _read_pdf, ".docx": _read_docx, ".pptx": _read_pptx}
+
+
+class DocumentReadError(RuntimeError):
+    """A file has a supported extension but cannot be parsed."""
+
+
 def load_document(path: Path, documents_dir: Path) -> LoadedDocument | None:
     """Load one file. Returns None if it has no usable text."""
     suffix = path.suffix.lower()
     if suffix not in SUPPORTED_SUFFIXES:
         return None
 
-    raw = _read_pdf(path) if suffix == ".pdf" else path.read_text(
-        encoding="utf-8", errors="replace"
-    )
-    metadata, body = _parse_header(raw) if suffix != ".pdf" else ({}, raw)
+    reader = _READERS.get(suffix)
+    try:
+        if reader:
+            metadata, body = {}, reader(path)
+        else:  # .md / .txt may carry a header block
+            metadata, body = _parse_header(path.read_text(encoding="utf-8", errors="replace"))
+    except Exception as exc:  # noqa: BLE001 - any parser failure is the same to us
+        # Folders of real documents contain renamed, truncated and half-saved
+        # files. One of them must not abort a whole ingestion run.
+        raise DocumentReadError(f"{path.name}: {type(exc).__name__}: {exc}") from exc
     body = body.strip()
     if not body:
         return None
@@ -81,13 +124,24 @@ def load_document(path: Path, documents_dir: Path) -> LoadedDocument | None:
     )
 
 
-def iter_documents(documents_dir: Path):
-    """Yield every loadable document under documents_dir, sorted by path."""
+def iter_documents(documents_dir: Path, on_error=None):
+    """Yield every loadable document under documents_dir, sorted by path.
+
+    Unreadable files are reported through on_error and skipped rather than
+    ending the walk.
+    """
     if not documents_dir.exists():
         return
     for path in sorted(documents_dir.rglob("*")):
         if not path.is_file() or path.suffix.lower() not in SUPPORTED_SUFFIXES:
             continue
-        document = load_document(path, documents_dir)
+        if path.name.startswith("~$"):  # Office lock files
+            continue
+        try:
+            document = load_document(path, documents_dir)
+        except DocumentReadError as exc:
+            if on_error:
+                on_error(exc)
+            continue
         if document is not None:
             yield document

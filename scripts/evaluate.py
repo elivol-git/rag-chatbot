@@ -25,6 +25,13 @@ from src.prompts import build_prompt  # noqa: E402
 from src.retrieval import retrieve  # noqa: E402
 
 CASES = [
+    # Course material (Hebrew and English), from data/documents/michlala
+    ("מהי אדריכלות מדברית?", ["מדבר", "אקלים", "קרינה"]),
+    ("מה זה גג ירוק ומה היתרונות שלו?", ["גג", "ירוק", "בידוד"]),
+    ("איך עובד איוורור טבעי בבניין?", ["איוורור", "אוויר", "טבעי"]),
+    ("מה ההבדל בין בטון מזוין לבטון דרוך?", ["בטון", "פלדה"]),
+    ("What characterises the architecture of Israel?", ["israel", "architecture"]),
+    # General corpus (Wikipedia / Gutenberg)
     ("What are Vitruvius' three principles of good architecture?", ["firmitas", "utilitas", "venustas", "strength", "utility", "beauty"]),
     ("What defines Brutalist architecture?", ["brutalis", "concrete", "béton"]),
     ("Who founded the Bauhaus and what did it teach?", ["gropius", "bauhaus"]),
@@ -33,13 +40,64 @@ CASES = [
     ("What is a passive house?", ["passive", "insulation", "energy"]),
     ("What did Louis Sullivan mean by form follows function?", ["sullivan", "form", "function"]),
     ("How do I configure a Kubernetes ingress controller?", []),  # grounding control
+    ("איך מכינים חומוס?", []),  # grounding control, Hebrew
 ]
+
+
+OFF_TOPIC = [
+    "How do I configure a Kubernetes ingress controller?",
+    "איך מכינים חומוס?",
+    "What is the offside rule in football?",
+    "מתי יוצא הטלפון החדש של סמסונג?",
+    "Explain monetary policy and interest rates.",
+]
+
+
+def calibrate() -> int:
+    """Report the gap between on-topic and off-topic top scores.
+
+    MIN_SCORE has to sit between the two, and the right value depends on the
+    embedding model, so it must be re-measured whenever EMBED_MODEL changes.
+    """
+    on = [(q, retrieve(q, top_k=1, min_score=0.0)) for q, kw in CASES if kw]
+    off = [(q, retrieve(q, top_k=1, min_score=0.0)) for q in OFF_TOPIC]
+
+    print("on-topic (want these above the floor):")
+    on_scores = []
+    for question, hits in on:
+        score = hits[0].score if hits else 0.0
+        on_scores.append(score)
+        print(f"  {score:.3f}  {question}")
+
+    print("\noff-topic (want these below the floor):")
+    off_scores = []
+    for question, hits in off:
+        score = hits[0].score if hits else 0.0
+        off_scores.append(score)
+        print(f"  {score:.3f}  {question}")
+
+    lowest_on, highest_off = min(on_scores), max(off_scores)
+    print(f"\nlowest on-topic  {lowest_on:.3f}")
+    print(f"highest off-topic {highest_off:.3f}")
+    if lowest_on <= highest_off:
+        print("NO SAFE FLOOR: the two ranges overlap, retrieval needs work first")
+        return 1
+    print(f"suggested MIN_SCORE = {(lowest_on + highest_off) / 2:.2f}  (current {settings.min_score})")
+    return 0
 
 
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--answers", action="store_true", help="also generate LLM answers")
+    parser.add_argument(
+        "--calibrate",
+        action="store_true",
+        help="report the score spread of on-topic vs off-topic queries and exit",
+    )
     args = parser.parse_args()
+
+    if args.calibrate:
+        return calibrate()
 
     print(f"top_k={settings.top_k}  min_score={settings.min_score}  model={settings.llm_model}\n")
     failures = 0

@@ -20,7 +20,7 @@ data/documents/  ──ingest──►  chunks ──embed──►  vector stor
 | Layer | Choice |
 |---|---|
 | LLM | `llama3.1` via local Ollama |
-| Embeddings | `nomic-embed-text` via Ollama (768-dim, asymmetric `search_document:` / `search_query:` prefixes) |
+| Embeddings | `bge-m3` via Ollama (1024-dim, multilingual — the corpus is Hebrew and English) |
 | Vector store | Hand-rolled: `embeddings.npy` (L2-normalized float32) + `chunks.json` + `manifest.json`, brute-force cosine via dot product |
 | API | Flask (`/api/health`, `/api/ask`, `/api/ingest`, `/api/sources`) |
 | Tool interface | MCP stdio server (`search_knowledge_base`, `knowledge_base_stats`) |
@@ -35,7 +35,7 @@ Prerequisites: Python 3.12, Node 18+, [Ollama](https://ollama.com) running.
 
 ```bash
 ollama pull llama3.1
-ollama pull nomic-embed-text
+ollama pull bge-m3
 
 python -m venv .venv
 .venv/Scripts/activate          # Windows;  source .venv/bin/activate elsewhere
@@ -75,9 +75,35 @@ Incremental logic lives in `manifest.json`: each source file is keyed by sha256.
 Unchanged files are skipped, changed files have their old chunks deleted before
 re-embedding, and chunks of deleted files are pruned.
 
-Adding your own material: drop `.md`, `.txt`, or `.pdf` files into
-`data/documents/` and re-ingest. Markdown/text files may carry a header block
-(`title:`, `source_url:`, `license:`, then `---`) which becomes chunk metadata.
+Adding your own material: drop `.md`, `.txt`, `.pdf`, `.docx`, or `.pptx` files
+into `data/documents/` and re-ingest. Word tables and slide text are extracted;
+slides keep a `[Slide n]` marker so retrieved context stays locatable. Markdown
+and text files may carry a header block (`title:`, `source_url:`, `license:`,
+then `---`) which becomes chunk metadata. Files that cannot be parsed are
+reported and skipped rather than aborting the run.
+
+## Corpora
+
+| Folder | Contents |
+|---|---|
+| `data/documents/` | 28 public-domain / CC BY-SA texts: Vitruvius, Ruskin, Sullivan, and Wikipedia articles on movements, architects and building elements |
+| `data/documents/michlala/` | 54 lecturer-authored course documents (Hebrew and English): building materials, green and desert architecture, climate, Israeli architecture |
+
+The course documents are imported by `scripts/import_course_docs.py`, which
+converts each source file to plain text and is deliberately conservative about
+what it accepts:
+
+```bash
+python scripts/import_course_docs.py --dry-run   # report what would be imported
+python scripts/import_course_docs.py             # write the text files
+```
+
+It skips exams, quizzes, question banks and answer keys (so the bot cannot serve
+assessment material), and skips any file whose text contains an ID number or a
+submission header, because those are student work and must not become
+retrievable. Only extracted text is stored — the original decks run to hundreds
+of megabytes of images and carry Office author metadata, and none of that is
+needed to answer questions.
 
 ## Configuration (`.env`)
 
@@ -85,13 +111,13 @@ Adding your own material: drop `.md`, `.txt`, or `.pdf` files into
 |---|---|---|
 | `OLLAMA_HOST` | `http://127.0.0.1:11434` | Ollama endpoint — keep the literal IP, see troubleshooting |
 | `LLM_MODEL` | `llama3.1` | Answer generation model |
-| `EMBED_MODEL` | `nomic-embed-text` | Embedding model (768-dim) |
+| `EMBED_MODEL` | `bge-m3` | Embedding model (1024-dim, multilingual) |
 | `DOCUMENTS_DIR` | `./data/documents` | Source documents |
 | `VECTOR_STORE_DIR` | `./data/vector_store` | Index location |
 | `CHUNK_SIZE` | `800` | Max characters per chunk |
 | `CHUNK_OVERLAP` | `50` | Characters carried across chunk boundaries |
 | `TOP_K` | `4` | Chunks retrieved per query |
-| `MIN_SCORE` | `0.62` | Cosine floor; below it the bot refuses instead of guessing |
+| `MIN_SCORE` | `0.58` | Cosine floor; below it the bot refuses instead of guessing |
 | `FLASK_PORT` | `5000` | API port |
 
 ## API

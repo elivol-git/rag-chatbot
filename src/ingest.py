@@ -49,7 +49,11 @@ def ingest(rebuild: bool = False, verbose: bool = True) -> dict[str, Any]:
         if verbose:
             print(message, flush=True)
 
-    for document in iter_documents(settings.documents_dir):
+    unreadable: list[str] = []
+    for document in iter_documents(
+        settings.documents_dir,
+        on_error=lambda exc: (unreadable.append(str(exc)), log(f"unreadable {exc}")),
+    ):
         seen.add(document.source)
         known = store.manifest.get(document.source)
         if known and known.get("sha256") == document.sha256:
@@ -84,6 +88,7 @@ def ingest(rebuild: bool = False, verbose: bool = True) -> dict[str, Any]:
         "files_indexed": changed,
         "files_skipped": skipped,
         "files_removed": len(removed_files),
+        "files_unreadable": len(unreadable),
         "chunks_added": new_chunks,
         "chunks_removed": removed_chunks,
         "total_chunks": len(store),

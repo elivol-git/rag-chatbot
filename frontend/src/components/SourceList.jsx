@@ -27,7 +27,9 @@ export default function SourceList({ chunks }) {
               <div className="score-bar">
                 <div style={{ width: `${Math.max(0, Math.min(1, chunk.score)) * 100}%` }} />
               </div>
-              <p className="source-text">{chunk.text}</p>
+              <p className="source-text" dir="auto">
+                {chunk.text}
+              </p>
               {chunk.source_url && (
                 <a href={chunk.source_url} target="_blank" rel="noreferrer">
                   original source

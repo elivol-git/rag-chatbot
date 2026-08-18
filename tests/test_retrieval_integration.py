@@ -36,7 +36,9 @@ def test_retrieval_finds_the_expected_document():
 def test_source_filter_restricts_to_one_document():
     sources = store_stats()["sources"]
     target = next((s for s in sources if "bauhaus" in s.lower()), sources[0])
-    chunks = retrieve("architecture", top_k=3, source_filter=target)
+    # min_score=0 because this asserts the filter, not the similarity floor:
+    # a generic query restricted to one document can legitimately score low.
+    chunks = retrieve("architecture", top_k=3, source_filter=target, min_score=0.0)
     assert chunks and all(c.source == target for c in chunks)
 
 

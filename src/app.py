@@ -17,7 +17,7 @@ from .config import PROJECT_ROOT, settings
 from .embeddings import EmbeddingError
 from .ingest import ingest
 from .llm import LLMError, chat, chat_stream, ollama_reachable
-from .prompts import NO_CONTEXT_ANSWER, build_prompt
+from .prompts import build_prompt, refusal_for
 from .retrieval import reload_store, retrieve, store_stats
 from .vector_store import DimensionMismatch
 
@@ -79,7 +79,7 @@ def ask():
         return jsonify(
             {
                 "question": question,
-                "answer": NO_CONTEXT_ANSWER,
+                "answer": refusal_for(question),
                 "chunks": [],
                 "grounded": False,
                 "retrieval_ms": retrieval_ms,
@@ -148,7 +148,7 @@ def ask_stream():
         )
 
         if not chunks:
-            yield _sse("token", {"text": NO_CONTEXT_ANSWER})
+            yield _sse("token", {"text": refusal_for(question)})
             yield _sse("done", {"llm_ms": 0, "total_ms": retrieval_ms})
             return
 
