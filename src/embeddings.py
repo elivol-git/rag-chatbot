@@ -15,7 +15,10 @@ import requests
 from .config import settings
 
 BATCH_SIZE = 32
-TIMEOUT = 120
+# Generous, because a request can arrive while Ollama is swapping this model
+# back into VRAM after the LLM evicted it.
+TIMEOUT = 300
+TIMEOUT_RETRIES = 2
 ZERO_VECTOR_RETRIES = 3
 
 # nomic-embed-text is trained with asymmetric task prefixes: stored passages
@@ -41,23 +44,32 @@ def _normalize(matrix: np.ndarray) -> np.ndarray:
 
 def _request_batch(texts: list[str]) -> list[list[float]]:
     url = f"{settings.ollama_host}/api/embed"
-    try:
-        response = requests.post(
-            url,
-            json={
-                "model": settings.embed_model,
-                "input": texts,
-                # Keep the embed model resident; a cold load costs ~2s per query.
-                "keep_alive": "30m",
-            },
-            timeout=TIMEOUT,
-        )
-        response.raise_for_status()
-    except requests.RequestException as exc:
-        raise EmbeddingError(
-            f"Embedding request to {url} failed ({exc}). "
-            f"Is Ollama running and '{settings.embed_model}' pulled?"
-        ) from exc
+    payload_json = {
+        "model": settings.embed_model,
+        "input": texts,
+        # Keep the embed model resident; a cold load costs seconds per query.
+        "keep_alive": "30m",
+    }
+
+    for attempt in range(TIMEOUT_RETRIES + 1):
+        try:
+            response = requests.post(url, json=payload_json, timeout=TIMEOUT)
+            response.raise_for_status()
+            break
+        except requests.Timeout:
+            # Usually VRAM pressure: the LLM evicted this model and it is being
+            # loaded again. Worth one more try before giving up.
+            if attempt == TIMEOUT_RETRIES:
+                raise EmbeddingError(
+                    f"Embedding request to {url} timed out after "
+                    f"{TIMEOUT_RETRIES + 1} attempts of {TIMEOUT}s. Ollama may be "
+                    "reloading models under memory pressure - check `ollama ps`."
+                ) from None
+        except requests.RequestException as exc:
+            raise EmbeddingError(
+                f"Embedding request to {url} failed ({exc}). "
+                f"Is Ollama running and '{settings.embed_model}' pulled?"
+            ) from exc
 
     payload = response.json()
     vectors = payload.get("embeddings")
