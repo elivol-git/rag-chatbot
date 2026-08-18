@@ -62,6 +62,15 @@ def test_hebrew_question_over_english_sources_asks_for_a_hebrew_answer():
     assert "Reinforced concrete combines concrete and steel." in messages[1]["content"]
 
 
+def test_prompt_states_the_valid_citation_range():
+    """Regression: the model cited [11] and [13] when only 4 passages existed."""
+    chunks = [_chunk(f"passage {n}", f"doc{n}.md", 0.7) for n in range(3)]
+    system = build_prompt("What is a dome?", chunks)[0]["content"]
+
+    assert "exactly 3 passages" in system
+    assert "[1] to [3]" in system
+
+
 def test_english_question_over_hebrew_sources_asks_for_an_english_answer():
     chunks = [_chunk("בטון מזוין משלב בטון ופלדה.", "michlala/materials.md", 0.8)]
     messages = build_prompt("What is reinforced concrete?", chunks)

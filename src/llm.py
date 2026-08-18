@@ -9,11 +9,23 @@ import requests
 
 from .config import settings
 
-TIMEOUT = 300
+TIMEOUT = 600
+# Keep the model resident: it is several GB and reloading it between questions
+# costs more than generating the answer on a machine without spare VRAM.
+KEEP_ALIVE = "30m"
 
 
 class LLMError(RuntimeError):
     pass
+
+
+def _options(temperature: float) -> dict[str, Any]:
+    return {
+        "temperature": temperature,
+        # A grounded answer over a few passages does not need to run long, and
+        # every token is CPU time when the model does not fit in VRAM.
+        "num_predict": settings.max_answer_tokens,
+    }
 
 
 def chat(messages: list[dict[str, Any]], temperature: float = 0.2) -> str:
@@ -25,7 +37,8 @@ def chat(messages: list[dict[str, Any]], temperature: float = 0.2) -> str:
                 "model": settings.llm_model,
                 "messages": messages,
                 "stream": False,
-                "options": {"temperature": temperature},
+                "keep_alive": KEEP_ALIVE,
+                "options": _options(temperature),
             },
             timeout=TIMEOUT,
         )
@@ -53,7 +66,8 @@ def chat_stream(messages: list[dict[str, Any]], temperature: float = 0.2) -> Ite
                 "model": settings.llm_model,
                 "messages": messages,
                 "stream": True,
-                "options": {"temperature": temperature},
+                "keep_alive": KEEP_ALIVE,
+                "options": _options(temperature),
             },
             timeout=TIMEOUT,
             stream=True,

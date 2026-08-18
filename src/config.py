@@ -44,6 +44,7 @@ class Settings:
     chunk_overlap: int
     top_k: int
     min_score: float
+    max_answer_tokens: int
     flask_port: int
 
     @property
@@ -69,6 +70,7 @@ settings = Settings(
     chunk_size=_int("CHUNK_SIZE", 800),
     chunk_overlap=_int("CHUNK_OVERLAP", 50),
     top_k=_int("TOP_K", 4),
-    min_score=_float("MIN_SCORE", 0.30),
+    min_score=_float("MIN_SCORE", 0.58),
+    max_answer_tokens=_int("MAX_ANSWER_TOKENS", 400),
     flask_port=_int("FLASK_PORT", 5000),
 )

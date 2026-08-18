@@ -31,7 +31,8 @@ Rules you must follow:
 2. Cite the passages you used inline with their numbers, like [1] or [2][3].
 3. If the context does not contain the answer, reply exactly: "{refusal}" \
 — do not guess and do not apologise at length.
-4. Never invent citation numbers that are not in the context.
+4. There are exactly {n_passages} passages, numbered [1] to [{n_passages}]. \
+Never write a citation number outside that range.
 5. Be concise and factual: a short paragraph, or bullets when listing.
 6. {language_rule}
 """
@@ -59,10 +60,12 @@ def refusal_for(question: str) -> str:
     return REFUSALS[detect_language(question)]
 
 
-def system_prompt_for(question: str) -> str:
+def system_prompt_for(question: str, n_passages: int = 0) -> str:
     language = detect_language(question)
     return SYSTEM_PROMPT.format(
-        refusal=REFUSALS[language], language_rule=_LANGUAGE_RULE[language]
+        refusal=REFUSALS[language],
+        language_rule=_LANGUAGE_RULE[language],
+        n_passages=n_passages,
     )
 
 
@@ -86,6 +89,6 @@ def build_prompt(question: str, chunks: list["RetrievedChunk"]) -> list[dict[str
         f"Question: {question}\n\n{closing}"
     )
     return [
-        {"role": "system", "content": system_prompt_for(question)},
+        {"role": "system", "content": system_prompt_for(question, len(chunks))},
         {"role": "user", "content": user_content},
     ]
