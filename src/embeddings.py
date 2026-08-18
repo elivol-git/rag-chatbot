@@ -19,7 +19,8 @@ BATCH_SIZE = 32
 # back into VRAM after the LLM evicted it.
 TIMEOUT = 300
 TIMEOUT_RETRIES = 2
-ZERO_VECTOR_RETRIES = 3
+ZERO_VECTOR_BACKOFF = (2, 8, 20)
+ZERO_VECTOR_RETRIES = len(ZERO_VECTOR_BACKOFF)
 
 # nomic-embed-text is trained with asymmetric task prefixes: stored passages
 # and incoming questions are embedded differently. Applied only for that model
@@ -94,7 +95,10 @@ def _embed_batch(texts: list[str]) -> list[list[float]]:
         vectors = _request_batch(texts)
         if not _has_zero_vector(vectors):
             return vectors
-        time.sleep(0.5 * (attempt + 1))
+        # Backoff has to cover a model reload, not just a warm-up hiccup: when
+        # the generator is holding memory, loading this one takes tens of
+        # seconds and every attempt inside that window returns zeros again.
+        time.sleep(ZERO_VECTOR_BACKOFF[attempt])
 
     raise EmbeddingError(
         f"Ollama returned a zero embedding vector for '{settings.embed_model}' "

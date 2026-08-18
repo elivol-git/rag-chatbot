@@ -12,14 +12,14 @@ data/documents/  ──ingest──►  chunks ──embed──►  vector stor
                                              │          │
                             MCP client ──► search_knowledge_base
                                              │
-                              prompt + context ──► Ollama (aya-expanse) ──► grounded answer
+                                prompt + context ──► Ollama (gemma3) ──► grounded answer
 ```
 
 ## Stack
 
 | Layer | Choice |
 |---|---|
-| LLM | `aya-expanse:8b` via local Ollama (multilingual — answers Hebrew and English) |
+| LLM | `gemma3:4b` via local Ollama (multilingual — answers Hebrew and English) |
 | Embeddings | `bge-m3` via Ollama (1024-dim, multilingual — the corpus is Hebrew and English) |
 | Vector store | Hand-rolled: `embeddings.npy` (L2-normalized float32) + `chunks.json` + `manifest.json`, brute-force cosine via dot product |
 | API | Flask (`/api/health`, `/api/ask`, `/api/ingest`, `/api/sources`) |
@@ -34,7 +34,7 @@ the MCP tool both call `retrieve()`; neither re-implements search.
 Prerequisites: Python 3.12, Node 18+, [Ollama](https://ollama.com) running.
 
 ```bash
-ollama pull aya-expanse:8b
+ollama pull gemma3:4b
 ollama pull bge-m3
 
 python -m venv .venv
@@ -110,7 +110,7 @@ needed to answer questions.
 | Variable | Default | Meaning |
 |---|---|---|
 | `OLLAMA_HOST` | `http://127.0.0.1:11434` | Ollama endpoint — keep the literal IP, see troubleshooting |
-| `LLM_MODEL` | `aya-expanse:8b` | Answer generation model (multilingual) |
+| `LLM_MODEL` | `gemma3:4b` | Answer generation model (multilingual) |
 | `EMBED_MODEL` | `bge-m3` | Embedding model (1024-dim, multilingual) |
 | `DOCUMENTS_DIR` | `./data/documents` | Source documents |
 | `VECTOR_STORE_DIR` | `./data/vector_store` | Index location |
@@ -216,6 +216,27 @@ nothing above the similarity floor.
 | `UnicodeEncodeError` when ingesting or evaluating | A non-UTF-8 Windows console. Both entry points call `sys.stdout.reconfigure(encoding="utf-8")`; if you wrap them in your own script, do the same. |
 | `frontend not built` from `/` | Run `npm run build` in `frontend/`, or use the Vite dev server. |
 | Wikipedia fetch returns 429 | The corpus script backs off and retries; re-run it to pick up missing files. |
+
+## Choosing models
+
+`scripts/compare_models.py` runs several generators over identical retrieved
+context, so any difference in the output is the model's rather than the
+retriever's:
+
+```bash
+python scripts/compare_models.py gemma3:4b aya-expanse:8b
+```
+
+Measured here (Radeon RX 550, 2GB VRAM, so generation runs on the CPU):
+
+| Model | Steady-state generation | Hebrew answers |
+|---|---|---|
+| `gemma3:4b` | ~15 chars/s | correct, well cited, concise |
+| `aya-expanse:8b` | ~8.5 chars/s | more detailed, same grounding |
+| `llama3.1` | ~8 chars/s | noticeably weaker Hebrew |
+
+Switching generators is one `LLM_MODEL` value and needs no re-ingestion.
+Switching `EMBED_MODEL` does, because the index stores its vectors.
 
 ## Design notes
 
