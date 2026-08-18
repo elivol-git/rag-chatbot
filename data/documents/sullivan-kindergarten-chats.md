@@ -1,0 +1,2416 @@
+title: Louis Sullivan — Kindergarten Chats
+source_url: https://www.gutenberg.org/cache/epub/64909/pg64909.txt
+license: Public domain (Project Gutenberg)
+---
+
+LES CARAVANES
+  D'UN
+  CHIRURGIEN
+  D'AMBULANCES
+  PENDANT LE SIÉGE DE PARIS
+  ET SOUS LA COMMUNE
+
+  PAR LE
+  DR JOULIN
+  PROFESSEUR AGRÉGÉ DE LA FACULTÉ DE MÉDECINE
+  CHEVALIER DE LA LÉGION D'HONNEUR
+
+
+  PARIS
+  E. DENTU, LIBRAIRE-ÉDITEUR
+  PALAIS-ROYAL, 17 ET 19, GALERIE D'ORLÉANS
+
+  1871
+  Tous droits réservés.
+
+
+
+
+PARIS.--IMP. SIMON RAÇON ET COMP., RUE D'ERFURTH, 1
+
+
+
+
+A MONSIEUR
+
+ARMAND DU MESNIL
+
+OFFICIER DE LA LÉGION D'HONNEUR
+
+SOUVENIR AFFECTUEUX
+
+
+
+
+LES CARAVANES
+
+D'UN
+
+CHIRURGIEN
+
+D'AMBULANCES
+
+
+
+
+I
+
+
+Dans ce tohu-bohu militaire qui fut le siége de Paris, la chirurgie
+devait malheureusement jouer un grand rôle. Aussi, dès le début, le
+corps médical organisa les secours avec un dévouement dont je ne lui
+ferai pas l'injure de le féliciter, car il fait partie de ses
+traditions, de ses devoirs, de ses habitudes. Le médecin se dévoue
+aussitôt que surgit un malheur public qu'il peut soulager, et cela sans
+craindre d'écraser ses contemporains sous un lourd fardeau de
+reconnaissance, car il sait parfaitement qu'il est sans exemple dans
+l'histoire que le public ait jamais tenu compte au médecin de son
+dévouement une fois que le péril est passé.
+
+Les ambulances constituaient la question d'urgence, mais toute
+l'organisation en fut abandonnée à l'initiative ou à l'inexpérience
+individuelle. Chacun fit du mieux qu'il put, chercha ses ressources là
+où il espéra les prendre. Les uns, comme l'Internationale et la Presse,
+avec leurs puissants moyens d'action, reçurent des capitaux
+considérables et firent les choses tout à fait en grand; d'autres, plus
+modestes, sollicitèrent à domicile des souscriptions et un concours qui
+firent rarement défaut. Enfin, le zèle de tous accomplit des prodiges de
+charité.
+
+L'administration supérieure, qui poussa l'incapacité jusqu'au génie, eut
+le bon goût de s'effacer et de nous laisser faire au début, et c'est une
+des rares choses dont on lui aurait su gré, si elle avait eu
+l'intelligence de persister dans cet effacement. Malheureusement le
+gouvernement possède dans sa collection de rouages inutiles un vieux
+dieu, sans bras ni jambes, fétiche perclus du cerveau, dur d'oreille et
+voulant tout engloutir dans ses vastes mâchoires démeublées. Ce dieu
+vorace et impuissant se nomme l'INTENDANCE.
+
+Aussi longtemps que les ambulances furent en voie de création,
+l'intendance respecta religieusement cette phase pénible de l'existence
+des choses nouvelles, mais aussitôt que les ambulances organisées furent
+en état de rendre des services, l'intendance, escortée de ses
+riz-pain-sel, se fit porter au milieu de la route pour empêcher les
+ambulanciers de passer et leur dit en langage administratif, que je
+traduis ici pour la commodité du lecteur:
+
+«Je suis l'intendance, et j'ai dans mes attributions ce qui concerne les
+réparations de la peau militaire. Vous voulez me faire une concurrence
+déloyale puisque vous prétendez faire et bien faire, à vos frais, sans
+qu'il en coûte un sou à l'État, une besogne pour laquelle l'État me paye
+très-cher, et que je fais fort mal. Par le foin qui remplit mes bottes!
+je ne puis vous permettre un pas de plus dans cette voie fatale. Je vous
+absorbe ou je vous brise; choisissez entre mes vices et ma colère. Mes
+vices sont aimables, et ma colère terrible. J'aime mieux priver la
+société de vos services que de vous voir rendre des services à côté de
+moi, qui suis habituée à n'en rendre qu'à moi-même.»
+
+Nous verrons plus tard ce qu'il advint des outrecuidantes prétentions de
+l'intendance.
+
+Les ambulances s'organisaient donc de tous les côtés. Une ambulance qui
+s'organise se compose de deux éléments assez distincts; d'abord
+l'état-major, en général fort disposé à croquer des marrons, ensuite les
+comparses, dont l'éternelle destinée semble de tirer du feu lesdits
+marrons. J'aurais pu mettre mon couvert du côté des croqueurs,
+c'est-à-dire de l'état-major, mais je n'aime ni à tirer, ni à croquer
+les marrons. Je restai donc un instant à l'écart, examinant comment je
+pourrais me rendre utile en conservant toute mon indépendance d'action,
+et en me créant une situation spéciale où je n'aurais ni trop à
+commander, ni surtout à obéir.
+
+Après avoir avec soin étudié ce terrain nouveau pour moi, j'acquis la
+conviction que pour rendre la plus grande somme de services possible au
+combat, un chirurgien, muni d'appareils bien complets, devait diriger
+seulement deux voitures d'ambulance, l'une pour blessés couchés, l'autre
+pour blessés assis, lesdites voitures constamment à ses ordres et prêtes
+à se porter au feu chaque fois qu'il y a bataille.
+
+C'est là le véritable type de l'ambulance volante. Avec deux voitures on
+passe partout, on a son petit personnel tout entier sous la main, chacun
+sait d'avance le rôle qu'il doit remplir, les ordres sont rapidement
+exécutés, et les soins d'autant plus efficaces qu'ils se font moins
+attendre. On fait le pansement complet et définitif sur place, on charge
+de suite ses blessés sans leur faire subir une foule de transbordements
+toujours pénibles et qui durent de longues heures, parfois même
+plusieurs jours; puis, les voitures pleines, on revient à Paris et on
+expédie les malades là où ils trouveront les soins définitifs les plus
+convenables, selon la gravité de leurs blessures.
+
+Dans cette situation, le chirurgien est absolument indépendant; il
+n'obéit qu'à ses inspirations, à sa fantaisie, à son initiative; il ne
+subit d'autre contrôle que celui de sa volonté, et lorsqu'il a acquis un
+peu d'habitude dans le métier d'ambulancier, il ne perd pas sa journée.
+
+Je dis quand il a acquis un peu d'habitude, car il faut encore un
+certain apprentissage; il ne suffit pas d'avoir un brillant équipage de
+chasse pour trouver le gibier, il faut en connaître les us et coutumes.
+Les trois quarts du temps l'état-major de la place semblait ne pas
+savoir où on se battait ou même s'il y avait combat; il vous envoyait
+parfois au nord quand l'affaire était au sud, et cela de la meilleure
+foi du monde. Aussi j'ai fait jusqu'à dix ou douze lieues dans une
+journée sans pouvoir mettre la main sur un blessé, ce qui n'était pas
+absolument agréable par un froid de huit ou dix degrés.
+
+Donc, pour faire une bonne ambulance volante, outre un chirurgien bien
+équipé, il faut malheureusement deux voitures et des chevaux. Je dis
+malheureusement, parce que c'est justement là que gît la difficulté.
+
+Pour la première fois qu'une voiture entre en campagne, cela va encore;
+on empaume assez facilement les gens, on leur montre l'expédition
+exclusivement par son côté pittoresque, en leur cachant avec soin le
+côté laurier. Aussi le voyage, au départ, se fait avec beaucoup
+d'entrain et de gaieté; seulement il peut arriver un moment où il n'est
+plus temps de feindre, la dissimulation serait absolument inutile: on
+peut tomber en plein drame militaire. Alors la mine du propriétaire de
+l'équipage s'allonge; on entend des: «Ah! si j'avais su!» étouffés,
+l'oeil a des effarements précurseurs d'une fuite, et si vous avez le
+malheur de quitter vos gens cinq minutes, vous courez la chance de ne
+plus retrouver personne et de revenir seul, à pied, avec vos instruments
+sur le dos.
+
+Au retour, la conversation languit, vous sentez des regards hostiles et
+qui semblent dire: «Si jamais tu m'y repinces!»
+
+Mais à mesure qu'on pénètre dans l'atmosphère de Paris, à mesure qu'on
+s'écarte du tapage et de la fumée de la bagarre, le courage du néophyte
+renaît, sa langue se délie, et bientôt il parle avec complaisance des
+dangers qu'on aurait pu courir, du sang-froid qu'on aurait développé.
+
+Vous croyez votre homme guéri de sa peur et aguerri pour l'avenir! En
+vérité, je vous le dis, jamais vous ne remonterez dans la voiture de cet
+homme, jamais son cheval ne fera partie d'une ambulance, jamais sa femme
+ne vous pardonnera d'avoir conduit à la _boucherie_ son mari, un père de
+famille, qui n'a échappé que par un véritable miracle à la mort des
+héros.
+
+Je n'ai pas besoin de dire que neuf fois sur dix on n'a couru aucune
+espèce de danger, et qu'au retour on s'est simplement montré en famille
+d'autant plus téméraire que la peur avait été plus grande.
+
+Allez frapper à une autre écurie, celle-là vous est fermée pour
+toujours.
+
+Après un certain nombre de tentatives dont les résultats présentaient
+les diverses nuances qui séparent un échec d'une réussite, je finis par
+mettre la main sur deux voitures fidèles et dévouées qui m'ont servi
+dans toutes les affaires depuis celle du Moulin-Saquet. Une appartenait
+à M. Kerckoff, de la galerie d'Orléans; c'était un petit omnibus de
+famille, coquet, à six places, traîné par un petit cheval très-fin,
+très-vigoureux, très-ardent, et qui ne s'effrayait pas du bruit. Pierre,
+le cocher, complétait l'équipage que je montais ordinairement.
+
+Pierre était un bon type; il avait ses jours de courage; mais parfois je
+le trouvais extrêmement nerveux et impressionnable. Il affectait alors
+une vraie tendresse pour le petit cheval, dont il ne voulait pas,
+disait-il, trop exposer la peau.
+
+Mais comme la peau de Pierre était toujours située à une très-faible
+distance de celle du cheval, je crois sincèrement que, lorsqu'il voulait
+à tout prix sauver l'une, il pensait surtout à l'autre.
+
+Le jour de l'affaire de Ville-Évrard, Pierre avait ses nerfs. Nous
+débouchions par la route de Montreuil et nous passions au pied du fort
+de Rosny, qui faisait un feu d'enfer de tous ses canons. Pierre commença
+à devenir rétif. Je regardai son nez, c'était le baromètre de son
+courage: quand il se sentait mal à l'aise, son nez se creusait de petits
+plis longitudinaux et devenait blanc vers le bout. Le nez de Pierre
+était, ce jour-là, houleux, et il passait au blanc.
+
+--Monsieur, nous ne pouvons pas aller plus loin.
+
+--Pourquoi cela?
+
+--Le petit cheval va avoir peur.
+
+--Eh bien, il cache son jeu, car on ne s'en aperçoit guère.
+
+--Je le connais, monsieur, il va avoir peur et va nous faire des
+cascades.
+
+--Vous abusez de ce qu'il ne peut pas s'en défendre; sans cela il nous
+dirait que ce n'est pas lui qui a peur, mais que c'est vous.
+
+--Moi!! quand j'étais au siége de Rome, j'en ai bien vu d'autres!
+
+Pendant que Pierre se retrempait dans ses souvenirs belliqueux du siége
+de Rome, nous avions dépassé le fort, le petit cheval n'avait pas eu
+peur, et Pierre était rassuré, car il avait entendu que les obus
+passaient à une vingtaine de pieds au-dessus de notre tête. Il n'y avait
+véritablement aucune espèce de danger.
+
+Mais la journée avait mal commencé pour lui, et il n'était pas au bout
+de ses transes. Nous arrivâmes à 1 ou 2 kilomètres de Neuilly-sur-Marne,
+sur la route qui conduit à Joinville, route absolument découverte. Le
+plateau d'Avron échangeait une violente canonnade avec les batteries
+prussiennes situées de l'autre côté de la Marne.
+
+Les projectiles se croisaient au-dessus de la route et l'on cheminait
+sous un dôme, non pas de verdure, mais d'obus. Le cas se rencontrait
+assez fréquemment, car les batteries étaient en général placées des deux
+côtés sur des points culminants. Ce cheminement ne présentait du reste
+que bien peu de danger pour les voitures d'ambulances quand elles
+prenaient le soin de ne pas marcher près des soldats en armes. On
+n'avait guère à redouter que les obus trop pressés qui éclataient en
+l'air; mais cela était si rare qu'on n'avait pas à en tenir compte. Avec
+un peu d'habitude on reconnaissait fort bien à la mélodie de son
+ronflement si l'obus qui rayait cette voûte de mitraille était à nous
+ou... aux autres.
+
+
+
+
+II
+
+
+Les obus ronflaient donc au-dessus de la route, qui était désertée en ce
+moment par nos troupes; on y voyait seulement une charrette de cantinier
+escortée de quelques gardes nationaux. Les Prussiens trouvèrent jovial
+de tuer ces braves gens. Ils envoyèrent sur la route un seul obus, mais
+si bien pointé (leur batterie était à moins de 2,000 mètres) qu'ils
+crevèrent le cheval et éventrèrent deux des gardes nationaux de
+l'escorte. Je ne pus que constater leur mort; ils avaient été tués sur
+le coup.
+
+Je les fis déposer sur le bord du chemin.
+
+Ce spectacle n'était point fait pour calmer les émotions de Pierre; son
+nez devint blafard et se creusa de véritables tranchées.
+
+--Monsieur, allons-nous-en, ces brigands vont tuer le petit cheval.
+
+--Eh bien! et nos drapeaux d'ambulances qui sont sur les voitures!
+
+--Ils s'en fichent pas mal des drapeaux! Allons-nous-en, monsieur,
+allons-nous-en.
+
+Il portait sa peur avec tant de crânerie que je n'insistai pas trop pour
+le faire marcher en avant. Je craignais de le voir filer sur Paris et
+nous planter là sans vergogne.
+
+--Puisque vous manquez de courage aujourd'hui, mettez-vous à l'abri,
+avec les voitures, au bas du remblai de la route; mettez à terre le
+brancard et les instruments, et nous irons à pied chercher les blessés.
+
+Pierre ne se le fit pas dire deux fois, et il se jeta en bas du remblai
+avec tant d'entrain qu'il engagea dans des branches d'arbres le drapeau
+d'ambulance de la voiture; il se cassa net. Je croyais le piquer
+d'honneur, mais il nous regarda impassiblement partir à pied avec les
+brancardiers. Il avait l'air de dire: Je me suis ramassé assez de gloire
+au siége de Rome; laissons-en pour les autres.
+
+Nous arrivâmes à Neuilly-sur-Marne, mais ce n'était pas là que se
+terminait l'affaire; il fallait aller toujours à pied jusqu'à
+Ville-Évrard et faire filer un à un les blessés jusqu'aux voitures;
+c'était absolument impraticable. Je priai un des brancardiers d'aller
+chercher Pierre et de le ramener, n'importe comment, avec les équipages.
+Pierre n'osa pas refuser; son émotion était calmée; mais, en route, il
+s'aperçut qu'il n'avait plus de drapeau protecteur. Je n'ai pas besoin
+de dire que le petit cheval fit la route ventre à terre.
+
+De Neuilly à Ville-Évrard, ce fut une nouvelle litanie. Chaque maison
+qu'on rencontrait sur la route excitait son admiration.
+
+--Ah! monsieur, la charmante maison!
+
+--Ma foi! je la trouve assez laide.
+
+--Ah! monsieur, qu'on serait bien ici.
+
+--Pour y passer ses jours?
+
+--Oh! non, pour se mettre à l'abri des obus.
+
+Je dois, du reste, rendre justice à Pierre: ce fut son dernier jour de
+faiblesse; quand les voitures allaient un peu trop loin, son nez
+pâlissait légèrement, se creusait de quelques rides, mais ses
+observations sur les chances de longévité du petit cheval étaient
+simplement mélancoliques, jamais il ne se permit la moindre opposition à
+mes volontés[1]. L'affaire de la Ville-Évrard lui avait laissé des
+remords.
+
+  [1] Hélas! sous la Commune, Pierre devait ternir ses lauriers. Un beau
+    jour lui et son camarade me plantèrent là, avec une invincible
+    résolution, ils tournèrent sans retour le dos à la gloire.
+
+Mais passons à l'étude de ma seconde voiture.
+
+La seconde voiture était un grand fourgon de la maison Chevet, que tout
+le monde a rencontré dans Paris, et dans lequel on peut transporter des
+blessés couchés. Le cheval était vigoureux mais dépourvu d'initiative;
+il marchait à la suite et manifestait en toute occasion un profond
+mépris pour les côtes. Lorsqu'il était forcé de choisir entre un fossé
+ou une côte, jamais il n'eut un moment d'hésitation, il déposa toujours
+la voiture dans le fossé et tourna la croupe du côté de la montée.
+
+Il commit, sans pudeur, cette incongruité à Avron, malgré les regards
+sévères de l'assistance, et sans se laisser toucher par l'exemple de son
+petit camarade qui enlevait avec vigueur l'autre voiture sur le plateau.
+
+Le cocher de M. Chevet était un solide gaillard, d'une placidité toute
+philosophique, ne se plaignant jamais, ni de son cheval, ni du froid, ni
+des Prussiens, et allant tranquillement là où je le menais sans daigner
+faire une observation.
+
+Mon personnel était complété par un ou deux brancardiers. Pour eux, je
+n'avais que le choix, c'étaient des négociants, des amis, des clients
+qui s'inscrivaient chez moi avec beaucoup d'empressement[2]. Il est
+certain que la curiosité jouait un grand rôle dans leur empressement.
+Mais je dois dire que pas un seul n'a reculé devant la tâche qu'il avait
+acceptée et que j'avais toujours soin de bien expliquer au départ.
+
+  [2] MM. Hébert, Martin, négociants habitant ma maison, Laboureur,
+    pharmacien, et son fils, M. Gauthier etc., ont fait sous ma
+    direction le pénible service de brancardiers.
+
+Les brancardiers sont souvent indispensables; surtout lorsque la pluie a
+détrempé les terres, il est impossible alors d'aller à travers champs
+jusqu'aux blessés. Les voitures ne pourraient s'en tirer. On va donc
+recueillir, avec les brancardiers, les hommes tombés; on les panse et on
+les ramène aux voitures.
+
+La création des compagnies de brancardiers organisés en corps réguliers
+était une excellente idée. Pour nous, elle avait cet avantage de ne pas
+nous obliger à en emmener; il nous était permis de conserver ainsi plus
+de places dans nos voitures pour les blessés; sur le champ de bataille,
+elle avait l'immense avantage de diminuer la durée de cette période
+d'angoisse qui sépare pour le soldat le moment où il tombe de celui où
+il reçoit les premiers soins.
+
+Malheureusement, on organisa les brancardiers vers la fin du siége, et
+lorsqu'ils furent organisés, on ne sut point les utiliser
+convenablement.
+
+Il est évident que toute troupe allant au feu devait être accompagnée de
+ses brancardiers. Je n'ai rien vu de semblable là où je me suis trouvé,
+ce qui n'est pas une raison pour qu'on ne l'ait pas fait ailleurs, car
+je ne veux parler que de ce que j'ai constaté par mes yeux, et dans les
+affaires militaires le champ d'observations est beaucoup plus restreint
+qu'on ne pourrait le croire. On ne sait jamais ce qui se passe à un
+kilomètre du point qu'on occupe.
+
+Cependant je puis dire que, le jour de l'affaire de Montretout, je
+revenais sur Paris vers deux heures, naturellement avec mes voitures
+pleines; on se battait depuis le matin et la route de Rueil à Courbevoie
+était encore émaillée de longues files de brancardiers qui marchaient
+vers la bataille. C'était un peu tard. Je n'avais point eu à constater
+leur présence près de l'ennemi, et mes blessés, qui provenaient de
+l'attaque de la Malmaison, m'étaient apportés par les cacolets.
+
+Parmi les hommes et les choses qui, ce jour-là, n'étaient pas à leur
+place, je citerai certain grand aumônier barbu monté sur un joli cheval,
+et qui s'abritait avec soin derrière un pan de mur pendant que je
+pansais mes blessés. Il avait la mine altérée d'un homme fort mal à son
+aise.
+
+Je me demandais quels services pouvait bien rendre, en pareilles
+circonstances, un aumônier à cheval qui s'abrite avec tant de soin
+derrière un mur. Je ne pouvais pourtant pas lui envoyer mes blessés à
+confesser; j'en avais cependant un qui avait une mauvaise balle dans le
+ventre, et ils auraient pu en causer ensemble.
+
+Je sais que, parmi les aumôniers, un grand nombre ont fait leur devoir;
+mais je crois qu'il ne faut pas généraliser outre mesure les éloges. A
+l'affaire de l'Hay, ils étaient trois qui bavardaient entre eux, sans
+trop s'occuper du reste; et cependant les blessés ne manquaient guère.
+J'en avais un surtout frappé d'une balle dans la poitrine, une de ces
+plaies qui donnent quelques gouttes de sang, mais qui laissent largement
+passer la mort. Je n'osais pas le panser; il fallait le déshabiller et
+j'avais peur de le voir expirer dans mes mains. Pauvre garçon! il était
+là, mourant, étendu sur une mauvaise paillasse que les Prussiens nous
+avaient prêtée. Les brancards manquaient, et les Prussiens me
+signifiaient qu'ils ne voulaient pas que j'emportasse la paillasse.
+
+--Pansez-moi, docteur, me disait-il d'une voix éteinte.
+
+Il lui semblait que là était le salut.
+
+Je regardai du côté des aumôniers; ils bavardaient toujours, et
+cependant c'était bien pour eux le moment de dire quelques petites
+choses à ce pauvre diable, avant qu'il partît pour un monde où l'on ne
+se bat pas.
+
+Quand les brancards arrivèrent, le soldat était mort. Les aumôniers
+causaient toujours.
+
+
+
+
+III
+
+
+Je vais maintenant exposer avec quelle simplicité de mécanisme
+l'initiative des médecins avait créé des ambulances, et je prendrai
+comme exemple celle du Ier arrondissement dont j'ai été mieux à même
+d'apprécier le fonctionnement. On verra ensuite ce qu'il a fallu
+d'ineptie et d'incapacité à l'Intendance pour arriver à porter le
+désordre dans une institution qui marchait admirablement.
+
+Aux premiers bruits du siége, les médecins de l'arrondissement furent
+convoqués sous la présidence du professeur Lasègue. On leur demanda un
+concours qui fut naturellement accordé sans réserve. Chacun devait
+fournir, dans la limite de ses moyens, des lits pour les blessés et des
+secours de toute nature.
+
+On décida d'abord qu'on fonderait un certain nombre d'ambulances dans
+des locaux spéciaux et où on recevrait les blessés assez gravement
+atteints, pour que de grandes opérations pussent être faites avec un
+personnel de chirurgiens habiles, d'internes, d'infirmiers, etc. Ces
+frais furent couverts par des souscriptions privées, qui s'élevèrent à
+environ 35,000 francs. D'un autre côté, les médecins devaient solliciter
+leurs clients les plus aisés de prendre chez eux les blessés légèrement
+atteints. Ces blessés devaient être nourris, pourvus de toutes les
+choses nécessaires aux frais de leur hôte et être considérés comme des
+membres de la famille.
+
+Les médecins se chargeaient naturellement de tous les soins nécessaires.
+En quelques jours, et de cette façon, le Ier arrondissement disposa
+d'environ huit cent quatre-vingts lits qui ne coûtaient absolument rien
+à l'État. Il fournissait un blessé, on lui rendait un soldat bien
+portant. Je crois qu'il a rarement fait un marché aussi avantageux.
+
+Le professeur Lasègue se trouva être un organisateur de premier ordre,
+qui se dévoua à l'oeuvre, lui et toute sa famille, avec une abnégation
+et un zèle dont personne naturellement n'a songé à leur savoir le
+moindre gré.
+
+Les dames dirigeaient la lingerie au bureau central de l'ambulance et
+opéraient les distributions de secours et de vivres.
+
+Le président avait sous ses ordres les bureaux et organisait tous les
+services à mesure que la nécessité s'en faisait sentir. Le mécanisme du
+fonctionnement était d'une simplicité élémentaire. Les médecins
+donnaient le nombre de lits vacants dans le périmètre de leur quartier.
+Ces lits, centralisés par le bureau, étaient représentés par des
+bulletins. Le jour d'un combat, à mesure que les blessés étaient amenés
+au bureau, sans même les faire descendre de voiture, et selon la gravité
+de leur blessure, ils recevaient un bulletin et étaient dirigés chez
+l'habitant, où ils trouvaient un bon lit tout prêt à les recevoir, et
+une famille qui les accueillait avec empressement. On ne renvoyait le
+blessé que guéri et prêt à être expédié à son corps.
+
+Dans la soirée et la nuit du 30 novembre et du 2 décembre, l'ambulance
+du Ier arrondissement plaça _quatre cent cinquante_ blessés; à deux
+heures du matin, les derniers arrivaient, et pas un seul n'attendit
+l'asile dont ils avaient tous un si grand besoin.
+
+Ici se place un petit fait qui peint bien les intendants. Une partie des
+blessés tombés aux combats de la Marne étaient ramenés à Paris sur les
+bateaux omnibus. Pour éviter les retards, on avait réuni sur la berge
+les moyens de transports, et la distribution des bulletins fonctionnait
+aussi régulièrement qu'au bureau central. Un bateau de blessés aborde;
+il en descend un intendant supérieurement galonné.
+
+--Qui est-ce qui dirige le service ici?
+
+--C'est moi, dit M. Lasègue.
+
+--Combien de lits?
+
+--Quarante-cinq.
+
+--Vous en avez cent.
+
+--Quarante-cinq.
+
+--Je vous dis que vous en avez cent.
+
+M. Lasègue, froissé de la roideur et de l'impertinence de ce monsieur
+qui ne savait pas un mot de l'état des choses, lui répondit froidement
+en remettant ses bulletins dans sa poche:
+
+--S'il y a cent lits, cherchez-les. Et il lui tourne le dos en fumant
+son cigare.
+
+L'intendant appela les brancardiers qui attendaient des ordres.
+
+--Brancardiers, portez vingt blessés au théâtre du Châtelet.
+
+--Il n'y a plus une place.
+
+--Alors, allez à Saint-Merry.
+
+--Tout est plein.
+
+Le monsieur aux galons regarda d'un air furieux le bateau, les
+brancardiers, planta là les blessés et le bateau, et disparut sans rien
+dire.
+
+Personne, depuis, n'en entendit oncques parler. Immédiatement, la
+distribution des bulletins commença, et les trente-cinq blessés (il n'y
+en avait pas plus sur le bateau) furent placés chez l'habitant.
+
+L'ambulance du Ier arrondissement, pendant son fonctionnement, a soigné
+2,680 malades ou blessés. Elle trouva dans M. Méline, adjoint au maire,
+un concours aussi actif qu'intelligent et dévoué; il débarrassa, dans
+les limites du possible, cette institution charitable de toutes les
+entraves administratives qui lui étaient suscitées.
+
+Il est probable que c'est pour la première fois que vous entendez parler
+des ambulances du Ier arrondissement, tandis que vous avez eu les
+oreilles rebattues des faits et gestes de quelques autres ambulances.
+
+Ne mesurez pas la somme du bien produit à l'intensité du tapage qui se
+fait autour des choses. Les gens dont je vous parle n'ont vu que le
+devoir et l'ont accompli noblement, simplement, gratuitement, sans
+bruit. Ils fuyaient la réclame et eussent été profondément blessés de
+voir leur conduite célébrée aux sons de la grosse caisse. Avec des
+sommes véritablement insignifiantes, ils ont accompli des choses
+énormes. Ceux-là peuvent dévoiler sans crainte au public le mobile de
+leurs sentiments et surtout leurs livres de comptes. Plus d'un
+philanthrope et plus d'une ambulance en ce monde ne pourraient pas en
+faire autant.
+
+Alors surgit l'intendance, qui ne sait guère jouer que le rôle de «bâton
+dans les roues.» Plus d'une fois les intendants avaient fait leur
+apparition dans nos bureaux. Mais, à leur sujet, la consigne était
+générale: ne jamais discuter, trouver parfait et accepter leurs idées
+trop souvent saugrenues, mais n'en tenir absolument aucun compte.
+
+L'intendant se retirait enchanté, et on ne le revoyait jamais, car c'est
+une particularité caractéristique de l'histoire naturelle de
+l'intendant. Il parle, donne des ordres, et croit que cela suffit.
+Presque jamais il ne vérifie si ses intentions ou ses ordres ont été
+exécutés: c'est ce qui explique l'admirable chaos, l'ineffable
+brouillamini, l'inextricable désordre qui caractérisent les actes de
+cette institution.
+
+L'intendance était au comble de la surprise. Malgré son intervention,
+l'ambulance du Ier arrondissement fonctionnait toujours admirablement.
+Mais il y avait un citoyen, préfet de la Seine, du nom de Jules Ferry,
+un vrai préfet des pièces du Châtelet, et que je confonds toujours avec
+Hurluberlu XIV. Ce magistrat municipal aurait dû comprendre que son
+premier devoir était de sauvegarder ses administrés du militarisme
+bouton de guêtre de l'intendance, et que la charité privée n'a rien à
+gagner à l'intervention d'un corps égoïste, incapable, sans coeur, qui
+envahit, non pas pour faire mieux que ce qu'il remplace, mais uniquement
+pour accroître sa puissance, pour affirmer sa domination envahissante.
+
+Mais M. Ferry n'est point homme à se préoccuper de pareils détails. Sans
+savoir un mot de la question, sans réfléchir à l'absurdité des mesures
+qu'il prenait, il signa sous la dictée de l'intendance une série de
+décisions qu'Hurluberlu XIV n'eût point lui-même osé signer, sans réunir
+trois fois son conseil des ministres.
+
+Il déclara qu'il se souciait assez peu de la charité privée qui
+nourrissait les blessés; on n'avait nul besoin de cela. Désormais
+l'intendance se chargerait de ce soin. Ce qu'il demandait, c'était des
+lits, beaucoup de lits vides, et le reste le regardait. De plus, les
+arrondissements furent divisés en lopins appartenant aux secteurs et
+dépendants de l'hôpital de ces secteurs: il était expressément interdit
+aux ambulances de prendre des blessés, sinon ceux envoyés par l'hôpital.
+
+Le Ier arrondissement, divisé avec une logique particulière, se trouvait
+dépecé entre trois secteurs et avait pour hôpitaux répartiteurs Beaujon,
+Lariboisière et l'Hôtel-Dieu.
+
+Voici maintenant le mode de fonctionnement: un blessé était d'abord
+conduit à l'hôpital, par exemple à Beaujon, puis de là renvoyé à
+l'ambulance, qui de là l'expédiait à destination. Intelligente
+complication!
+
+Pour la nourriture, c'était une autre histoire. Chaque jour, l'habitant
+qui n'avait plus le droit de nourrir son malade à ses frais, était fort
+empêché pour le nourrir aux frais de l'intendance; car, en ce temps de
+réquisition, on n'avait pour son argent des vivres qu'au moyen d'une
+carte, et les cartes pour blessés étaient supprimées.
+
+Donc, l'habitant charitable du Ier arrondissement était obligé d'aller
+tous les matins à Beaujon ou à Lariboisière, chercher un bon de cent
+grammes de viande qu'on lui faisait attendre parfois fort longtemps;
+puis, muni de ce bon, il continuait son voyage et allait se faire
+servir, à quelques lieues de là, ses cent grammes de viande, en faisant
+naturellement une nouvelle queue à la porte de la boucherie de
+l'intendance.
+
+Il est vrai que ses cent grammes de viande (quand il y avait de la
+viande) ne lui coûtaient absolument rien--que la perte de sa journée
+tout entière. Même cérémonie pour le pain et pour tout ce qui était
+nécessaire aux blessés. Il était du reste absolument défendu à un logeur
+de blessés de représenter ses voisins; chacun devait perdre sa propre
+journée et faire le voyage pour son compte. Hélas! combien de gens
+donnèrent alors leur démission d'âmes charitables!
+
+Et dire qu'une époque qui a produit dans l'ordre moral tant de
+flibustiers éminents, a pu produire en même temps dans l'ordre
+administratif des administrateurs d'une aussi haute capacité, et encore
+ils n'avaient pas l'excuse d'être hydrocéphales!
+
+Toute la journée c'était une procession de gens qui arrivaient à
+l'ambulance exaspérés:
+
+«Mais, monsieur, j'ai chez moi quatre ou six, ou dix blessés qui meurent
+de faim. Je meurs de faim aussi; avec quoi voulez-vous que je les
+nourrisse?»
+
+L'intendance, qui laissait nos soldats valides crever de faim et de
+misère, alors qu'ils avaient encore assez de voix pour faire retentir
+leur colère, osait prendre la responsabilité de nourrir de malheureux
+blessés qui ne pouvaient faire entendre leurs souffrances.
+
+Ah! Monsieur Ferry, certaines sottises dans la vie privée ne sont que
+des sottises, dans la vie publique elles peuvent devenir des crimes.
+
+Peu à peu, et grâce à l'énergie des municipalités, cette organisation
+stupide fut un peu modifiée et fonctionna d'une façon moins
+impraticable, mais l'élan de la charité privée était brisé, et il devint
+fort difficile vers la fin d'y avoir recours.
+
+
+
+
+IV
+
+
+L'intendance ne se contentait pas de mettre la main sur les ambulances
+civiles, elle voulait encore appliquer son estampille sur le dos des
+médecins et s'en faire d'humbles subordonnés. Je n'ai jamais compris
+pourquoi les grandes ambulances se sont laissé mettre au cou le collier
+de l'intendance et lui ont prêté serment de vasselage en se faisant un
+titre d'être ses auxiliaires.
+
+Les grandes ambulances n'avaient nul besoin de l'administration qui,
+elle, au contraire, ne pouvait se passer d'elles. Il leur était donc
+facile de conserver une indépendance pleine de dignité.
+
+Parmi les médecins qui se consacraient au soulagement des blessés, un
+certain nombre se montra absolument réfractaire aux étreintes de
+l'intendance; je n'ai pas besoin de dire que j'étais de ces médecins-là.
+
+Pour sortir des portes de Paris, quand il y avait une affaire, il
+fallait naturellement être muni de certains insignes, tels que: drapeaux
+aux voitures, brassards estampillés par les maires, cartes d'ambulances
+et laissez-passer. Il fallait nécessairement, dans l'intérêt du service,
+qu'on eût recours à des mesures de précaution. Seulement, celles que je
+viens d'énumérer étaient insuffisantes. Il était facile au premier venu
+de se procurer tout cela et les routes se trouvaient encombrées de
+flâneurs, qui en prenaient seulement pour leur plaisir, en se tenant à
+une distance trop respectueuse de l'affaire.
+
+Leurs voitures rentraient constamment vides de blessés; ils s'étaient
+contentés d'admirer les effets du lointain et d'embarrasser la route des
+ambulanciers sérieux. Rien de plus facile, comme je le dirai tout à
+l'heure, que d'écarter ces gens-là des routes où ils n'étaient que
+gênants. Mais l'intendance n'y songeait guère; elle ne semblait pas
+tenir absolument à ce qu'on fût utile, elle voulait surtout qu'on portât
+sa livrée. Aussi, en collaboration de M. Trochu, elle fit publier un
+arrêté qui lui laissait la faculté de choisir ses élus, c'est-à-dire les
+gens porteurs de son estampille.
+
+Je ne critique pas l'arrêté d'une manière absolue, mais il ne remédiait
+nullement à l'abus que j'ai signalé et il devenait une barrière opposée
+à des médecins qui pouvaient rendre de réels services. Ainsi un fruitier
+qui aurait désiré faire entendre à sa famille le bruit lointain d'une
+bataille aurait trouvé devant sa charrette les portes grandes ouvertes,
+s'il avait pris la simple précaution de demander à l'intendance un visa
+qu'elle ne refusait à personne, tandis qu'un docteur, fût-il professeur
+à la Faculté de Médecine, pouvait se voir fermer ladite porte au nez
+s'il dédaignait de se laisser viser par l'intendance.
+
+Les ambulances régulièrement organisées n'étaient pas non plus, sur ce
+point, à l'abri de tout reproche. On rencontrait sur les routes des
+voitures absolument pleines d'ambulanciers. Je me demandais où ils
+pourraient, au retour, loger leurs blessés? et cela s'est vu jusqu'à la
+fin de la guerre, c'est-à-dire à une époque où les brancardiers,
+organisés en escouades, rendaient tout à fait inutile le transport de ce
+personnel de curieux, qui n'avaient même pas le prétexte de rendre des
+services.
+
+Pour écarter cette cohue encombrante, il aurait suffi d'interdire le
+chemin des combats à toute voiture contenant plus d'un ambulancier en
+dehors du cocher.
+
+On aurait ainsi réservé aux blessés toute la place disponible, et qui se
+trouvait occupée par des gens qu'une simple curiosité conduisait. Et
+comme, en général, ces gens-là étaient fort prudents, il en résultait
+que trop souvent les voitures s'arrêtaient beaucoup trop loin du combat.
+
+Examinons maintenant de quelle façon l'intendance usait de ce monopole
+tyrannique, et comment elle en remplissait les obligations envers nos
+pauvres soldats blessés.
+
+Le jour de l'affaire de l'Hay, je me présentai à la porte de Montrouge.
+L'officier de marine qui commandait le poste vint reconnaître les
+voitures. Je lui exhibai ma carte de fondateur d'ambulance; car, en
+dehors de mon service de voiture, j'avais créé une douzaine de lits où
+je soignais mes blessés, ce qui me donnait droit à une carte spéciale.
+
+L'officier me rendit ma carte et me dit, avec cette politesse exquise
+qu'on rencontre toujours chez les officiers de marine:
+
+--Monsieur, je vois sur votre carte la croix rouge, les estampilles
+municipales, mais je n'y vois pas le visa de l'intendance, et, à mon
+grand regret, je ne puis vous laisser passer.
+
+--Mais, monsieur, je ne représente pas seulement une voiture de
+transport. J'appartiens à la science, et mon intervention aura
+certainement une autre valeur que si j'étais un simple charretier
+porteur du visa de l'intendance.
+
+--Je le comprends parfaitement, mais ma consigne est formelle et je vous
+en témoigne tous mes regrets.
+
+--Je suis certain, cependant, que vous allez me laisser passer. Je lui
+remis alors ma carte personnelle. Il me la rendit en me disant:
+
+--Vous avez raison, monsieur, la voie est libre pour vous, je prends
+tout sur moi.
+
+Je franchis la porte et je marchai sur Cachan, mais de mauvaise grâce et
+avec une envie assez accentuée de m'en retourner chez moi. Je me disais:
+Si l'intendance est si roide, c'est qu'elle a jeté sur ce point une
+masse de voitures; le combat semble fini, on n'entend plus le canon,
+tous les blessés sont probablement enlevés.
+
+J'arrivai à Cachan: la petite place était remplie par une foule de
+soldats, de mobiles et de gardes nationaux; j'appris ce qui s'était
+passé. C'était le jour où nous devions franchir la Marne, et où le
+passage avait manqué, parce que nos généraux avaient _oublié_ de prendre
+assez de bateaux pour faire les ponts. L'engagement sur l'Hay devait
+être une diversion; comme l'affaire principale sur la Marne ne pouvait
+avoir lieu, la diversion sur l'Hay devenait absolument inutile; mais
+pendant qu'on était en train d'_oublier_, il n'en coûtait pas davantage
+d'_oublier_ de prévenir les troupes qu'il ne fallait point faire la
+sortie. L'Hay fut donc fort inutilement attaqué, puis on _oublia_
+d'envoyer des troupes de renfort, de sorte que, maîtres un instant du
+village, nous en fûmes bientôt repoussés complétement. Notre défaite
+nous coûtait environ cinq cents hommes, en grande partie restés dans les
+lignes prussiennes, puisque nous avions été obligés de rentrer chez
+nous, d'un côté sur Cachan, et de l'autre sur Villejuif.
+
+La longue et unique rue qui de Cachan conduit à l'Hay était, sur toute
+sa longueur, coupée par des barricades; de plus, les avancées étaient
+protégées par des tranchées non interrompues, qui rendaient les abords
+impraticables aux voitures. Il fallait donc nécessairement faire à pied
+les deux kilomètres qui séparent les deux localités.
+
+Dans les maisons qui bordent la place, les voitures, peut-être une
+dizaine en tout, furent remisées, et je remarquai avec une très-vive
+surprise que pas une seule, mais pas une seule, n'appartenait à
+l'intendance. Je ne vis là aucun fonctionnaire grand ou petit, aucun
+employé au service des blessés relevant de cette admirable
+administration.
+
+Ainsi l'intendance, qui s'était fait adjuger le monopole des ambulances,
+non-seulement arrêtait aux portes les gens de bonne volonté qui venaient
+mettre leurs secours au service des blessés, mais encore elle se
+dispensait de fournir un concours qui était de sa part un devoir absolu.
+
+--Mais, me dira l'intendance, puisque les voitures ne pouvaient sortir
+de Cachan, pourquoi les nôtres seraient-elles allées y perdre leur
+temps?
+
+--D'abord, pour ramener de Cachan les blessés à Paris; ensuite, là où
+une voiture ne passe pas, un mulet fait sa route, et si vous aviez
+envoyé une dizaine de mulets avec leurs cacolets, on aurait pu ramener
+sur-le-champ des blessés que nous avons été obligés de laisser faute de
+moyens de transport.
+
+--Mes voitures et mes cacolets étaient sur la route de Villejuif.
+
+--Alors il fallait dire aux soldats: Mes enfants, faites-vous tuer ou
+blesser sur la route de Villejuif, j'irai vous ramasser. Mais prenez
+soin de ne pas attraper de balles sur la route de Cachan, car j'ai
+l'intention de n'y pas mettre les pieds.
+
+Je vis aussi sur la place de Cachan un certain nombre de brancardiers
+appartenant à l'Internationale, baguenaudant sans direction. Leur
+présence sur ce point était parfaitement inutile; là, pour eux, il n'y
+avait absolument rien à faire.
+
+Je partis avec un brancard, portant ma caisse d'ambulance, et je gagnai
+la campagne, non par la route, elle était coupée, mais à travers des
+maisons éventrées.
+
+En arrivant à l'Hay, je trouvai à l'entrée du village un cordon formé
+d'une vingtaine de Prussiens, l'arme au pied, qui barraient le passage.
+Il n'y avait point d'officiers parmi eux. Ces hommes étaient sales,
+puants, l'oeil atone, l'air abruti. Il existait pour le moment une
+espèce de trêve tacite qui nous permettait d'approcher sans recevoir des
+coups de fusil. Cependant, peu d'instants avant mon arrivée, ils avaient
+eu l'infamie de faire prisonnier et d'emmener un chirurgien militaire
+dont j'ai oublié le nom, qui s'était avancé sans armes, et sous la
+protection du brassard, pour panser nos blessés. Cette ignominieuse
+violation de la convention de Genève s'est reproduite tant de fois
+pendant la guerre que je me contente de la mentionner.
+
+Quand je voulus pénétrer dans l'Hay, les soldats s'y opposèrent. Ils
+avaient probablement de leur côté beaucoup de morts à cacher. Je voulus
+au moins aller relever les hommes que je voyais étendus dans les champs
+environnants. Quelques-uns pouvaient encore avoir besoin de soins. Même
+refus. L'un de ces hommes, qui comprenait quelques mots de français, me
+dit qu'il était absolument défendu de franchir leurs lignes.
+
+--Je suppose que vous avez autre chose à nous que ces cadavres; vous
+avez aussi de nos blessés?
+
+--Oui.
+
+--Alors, puisque vous ne voulez pas que j'aille les prendre, faites-moi
+apporter les blessés et les morts.
+
+Il appela de nouveaux Prussiens; les uns allèrent chercher les morts;
+les autres, rentrés dans le village, en revinrent portant nos pauvres
+soldats sur des paillasses, sur des volets décrochés aux fenêtres; eux
+aussi manquaient de brancards.
+
+Je m'approchai d'abord du tas des morts. Chez ceux-là, il pouvait encore
+rester un souffle de vie qu'il ne fallait pas laisser éteindre. Quelle
+horrible corvée, et comme ma main frémissait en interrogeant tous ces
+coeurs qui ne battaient plus!
+
+A l'aspect de ces morts, de ces misères, de ces souffrances, j'étais
+secoué par une émotion profonde.
+
+Le chirurgien est endurci seulement contre la souffrance physique, qu'il
+est habitué à combattre; sa main ne tremble pas pendant une opération,
+quelle qu'en soit la gravité; il ressent une préoccupation en quelque
+sorte scientifique et passagère. Mais il subit de cruelles émotions en
+face de cette misère collective qui étreint des masses d'hommes sur un
+champ de bataille et qui prend des formes si multiples: la faim, le
+froid, la fatigue, les nuits passées sur un matelas de boue, les
+blessures, et cette mort laissant l'homme isolé au milieu de la foule,
+pendant que les camarades vont en avant; cette mort qui, sur la terre,
+son unique linceul, le saisit couché, sans un ami pour recueillir son
+dernier souffle, sa dernière pensée! Tout cela forme un horrible
+tableau, et le chirurgien, qui ne subit pas l'entraînement de la lutte,
+a le coeur brisé et saturé des plus navrantes émotions à l'aspect de ces
+misères.
+
+
+
+
+V
+
+
+Je commençai le pansement des blessés naturellement au grand air et dans
+la boue. Mais les moyens de transport manquaient, il n'y avait là que
+deux brancards. Les soldats les moins atteints se traînaient à pied vers
+nos lignes en s'appuyant sur des bâtons cassés le long du chemin.
+
+--Attendez un peu, dis-je à un caporal blessé à la jambe: on pourra
+peut-être vous emporter tout à l'heure.
+
+--J'aimerais mieux m'en aller à quatre pattes, les sauvages seraient
+capables de changer d'idée et de me retenir prisonnier.
+
+Parmi ces pauvres gens, un certain nombre étaient assez grièvement
+atteints pour que leur transport sur brancard fût nécessaire. Les
+Prussiens refusaient de nous laisser emporter les paillasses et les
+volets sur lesquels les blessés reposaient, et les brancards
+n'arrivaient point.
+
+Je priai un des trois aumôniers dont j'ai parlé plus haut, et qui
+négligeaient un peu le salut de nos troupiers, d'aller jusqu'à Cachan,
+et de nous envoyer du monde; nous pûmes évacuer alors quelques blessés,
+mais le temps se passait, et les Prussiens nous signifièrent que nous
+ayons à nous retirer, car on allait recommencer le feu.
+
+Nous emportâmes ce que nous pûmes, en laissant le reste, qui fut ramené
+plus tard. Un lignard, qui avait une balle dans la hanche et une autre
+dans le mollet, voulait à tout prix nous suivre, et nous n'avions plus
+de moyens de transport.
+
+Je priai un des aumôniers de m'aider à lui servir de véhicule, et tous
+les trois, clopin clopant, notre homme à moitié soutenu, à moitié porté,
+nous finîmes par faire nos deux kilomètres et par le ramener avec nous,
+ce qui n'est pas du tout commode quand on manque de brancards.
+
+En route, l'aumônier m'agaçait; il chassait sur mes terres et donnait
+des conseils médicaux à mon lignard: il faut faire ceci, il faut éviter
+cela; il eût volontiers raisonné hygiène et régime; le médecin de l'âme
+qui venait tout à l'heure de rater sa consultation, se mêlait de faire
+la mienne. J'avais envie de lui crier: Holà! l'abbé, laissez-moi donc un
+peu les choses de la terre, je ne touche pas à celles du ciel.
+
+En rentrant à Cachan, je trouvai sur la place des brancardiers qui
+continuaient à baguenauder, mais il n'existait aucune trace des voitures
+de l'intendance.
+
+Les difficultés que j'avais éprouvées à la porte de Montrouge, pour
+sortir ce jour-là, s'étaient déjà rencontrées plus d'une fois et
+menaçaient de s'accroître dans l'avenir. Pour y mettre un terme, je m'en
+fus chez le général Schmitz, et lui demandai une carte supérieure en
+pouvoir à celles de l'intendance. Heureusement que le général se croyait
+indisposé ce jour-là, je traitai donc de puissance à puissance.
+
+--Je vous donnerai une consultation, mais vous me délivrerez un
+laissez-passer qui me délivrera de l'intendance.
+
+Ce que fit de très-bonne grâce le général; il me remit une carte
+spéciale qui me permettait de sortir de Paris ou d'y rentrer le jour et
+la nuit avec mes équipages, quand l'atmosphère avait ses nuages de
+poudre et ses orages de ferraille.
+
+C'était le 3 décembre; je traversai Joinville de bonne heure, et je
+marchai tout droit devant moi un peu au hasard, mais très-certain que je
+rencontrerais bientôt quelque chose. Je cheminais dans une plaine
+désolée, le sol était piétiné et sillonné par les roues des convois
+d'artillerie; on voyait des débris de cartouches, ou des gargousses de
+mitrailleuses, des affûts de canons brisés, et par places quelques
+traces de sang. On s'était battu la veille presque toute la journée sur
+ce point.
+
+On s'imagine, bien à tort, qu'un champ de bataille est partout maculé de
+larges mares sanglantes. Il n'en est rien; les blessures en général
+donnent très-peu de sang, la terre l'absorbe, le piétinement l'efface.
+Seulement quelques grands délabrements produits par des éclats d'obus
+sur les hommes et surtout sur les chevaux, laissent des traces moins
+effaçables.
+
+On ne supposerait donc pas, par l'inspection du sol, le lendemain d'une
+bataille, quand les blessés et les morts sont enlevés, que là des
+centaines d'hommes sont tombés la veille, victimes de la guerre.
+
+On parle aussi, bien souvent, d'hommes coupés en deux par un boulet, de
+cuisses emportées; tout cela est exagéré. Les gros projectiles broient
+un membre, mais ne l'enlèvent que lorsque ce membre est très-peu
+volumineux et que le projectile de gros calibre frappe juste dans son
+axe.
+
+Plus loin nous traversâmes des agglomérations de troupes campées au
+grand air, sans tentes, et qui se dégelaient à la fumée de maigres feux
+ou s'abritaient dans les fossés contre la bise; car la température était
+rude.
+
+Où étais-je? Cela est bien triste à avouer; mais aucun des officiers
+auxquels je le demandai ne put me le dire, et c'est seulement en
+rentrant que je reconnus sur la carte de l'état-major, la route de
+Villiers. Si un simple soldat prussien était passé par là, il m'aurait
+donné ce renseignement, que nos officiers ne pouvaient me fournir.
+
+Nous arrivâmes aux avant-postes. Le sol semblait remué par la puissante
+charrue d'un géant; nous étions au plateau de Villiers. Quatre longues
+tranchées parallèles, et distantes les unes des autres d'une trentaine
+de mètres, étaient occupées par nos soldats, qui les avaient creusées la
+veille dans la soirée, après la bataille. Les Prussiens, à une centaine
+de mètres, avaient fait le même travail, de sorte que, des deux côtés,
+ces profonds sillons étaient remplis de troupes cachées derrière les
+épaulements, et se guettant avec une ardeur réciproque.
+
+En raison de la faible distance qui séparait les combattants d'un côté
+comme de l'autre, ce qui dépassait un instant l'épaulement de la
+tranchée était immédiatement abattu. C'était un véritable affût; chaque
+homme, abrité par la motte de terre qui lui servait de créneau, le
+chassepot armé, guettait son homme. Les officiers, à tout moment,
+recommandaient de ne pas s'exposer inutilement. Mais il y a tant
+d'imprudente insouciance chez le soldat français, qu'à chaque instant
+j'avais quelque pansement à faire. En une heure, je remplis mes deux
+voitures sans compter les morts. Le dernier fut un mobile qui se dressa
+dans la tranchée; une seconde après il recevait une balle sous l'épaule.
+Il ne perdit pas vingt gouttes de sang. A la fin du pansement, il
+s'éteignait dans une convulsion.
+
+Quelle belle chose que la guerre! voilà un homme qui a mis vingt ans à
+pousser: un petit lingot de plomb en dix minutes en fait un cadavre.
+
+Ce n'est point chose facile que d'emporter les blessés de ces tranchées
+improvisées où il est impossible de se tenir debout sans être à
+découvert. On entraîne les blessés comme on peut: il n'y a pas de place
+pour les brancards, et c'est péniblement courbé, afin de rester à l'abri
+des épaulements, qu'on sort du retranchement pour gagner les voitures.
+
+Les tués sont mis de côté, quand la mort est bien constatée; deux
+camarades se détachent et vont creuser une fosse, pas bien profonde,
+dans les vignes, s'il y en a dans le voisinage; puis, deux hommes
+l'emportent, disent sur son corps un bout de prière, et les funérailles
+sont terminées. Pendant ce temps, les camarades se livrent à leurs
+occupations avec une insouciance qui laisse à peine échapper quelques
+mots de souvenir pour celui qui n'est plus. La mort qui nous menace à
+chaque instant nous rend d'une indifférence étonnante pour la mort des
+autres.
+
+Ici je vais reprendre le cours de mon procès à l'intendance. Et tout
+d'abord je déclare que je ne suis animé d'aucune pensée systématiquement
+hostile envers ce corps administratif. Je n'ai jamais eu directement ou
+indirectement personnellement à m'en plaindre.
+
+Quand l'intendant quitte son képi et sa tunique, il est en général
+très-homme du monde, charmant, et de relations fort agréables; mais
+quand il fonctionne comme administration, son incurie devient un danger
+pour nos armées, et je constate simplement ce que bien d'autres que moi
+ont malheureusement constaté. Je l'attaque à titre de danger, et je pose
+un lampion de plus près de ce gouffre, pour qu'on ne vienne pas à
+l'avenir s'y casser encore le cou.
+
+La nuit du 3 décembre fut extrêmement froide: quatre ou cinq degrés
+au-dessous de zéro. Les soldats qui passèrent toute cette longue nuit
+dans la tranchée n'avaient pas même, grâce à l'incurie de l'intendance,
+leur couverture pour s'abriter; afin de les alléger, on avait ordonné de
+les laisser à Paris, et l'intendance avait oublié de les rapporter.
+
+Aussi ces pauvres gens, qui avaient passé douze heures dans la tranchée
+sans feu,--aux avant-postes on ne peut pas faire de feu, chaque foyer
+deviendrait un nid à obus,--sans couvertures, sans vêtements chauds,
+étaient aux trois quarts morts de froid. Qu'on se figure une pareille
+nuit passée dans une immobilité absolue et l'oeil toujours au guet; car
+dans ces positions extrêmes, l'ennemi n'a en quelque sorte qu'à allonger
+le bras pour vous toucher.
+
+Si on avait oublié les couvertures, on n'avait guère pensé aux vivres,
+aussi les pauvres gens avaient faim depuis la veille; quand un cheval
+tombait, les soldats arrivaient comme une volée de corbeaux, et en dix
+minutes l'animal n'était plus représenté que par son squelette
+parfaitement disséqué.
+
+Dans ces lieux de désolation les choses se faisaient vite. En une heure
+un homme pouvait être frappé, mort et enterré. Un cheval en une heure
+était tué, écorché, dépecé, cuit, dévoré et même peut-être digéré, tant
+les estomacs étaient avides de fonctionner.
+
+
+
+
+VI
+
+
+On ferait un volume en racontant seulement les omissions, les erreurs de
+direction, les imprévoyances et les balourdises commises par
+l'état-major, par l'intendance, et qui ont contribué à nos insuccès
+pendant le siége. Un grand nombre ont brillé d'un si vif éclat qu'elles
+sont acquises à l'histoire. Je n'en parlerai pas. Je me contenterai d'en
+signaler quelques-unes qui sont restées dans l'ombre.
+
+Dans un conseil de guerre, il avait été décidé, le 20 décembre, qu'on
+attaquerait l'ennemi sur des points divers, depuis le mont Valérien
+jusqu'au Raincy. Je m'étais dirigé vers le fort de Rosny, qui devait
+former l'extrême droite de l'attaque. Les différents points d'opération
+avaient donc été étudiés par les commandants, et chacun d'eux
+connaissait son terrain.
+
+Au moment de monter à cheval, les opérations de la troisième armée, qui
+formait la droite de la bataille, furent entièrement changées, et les
+troupes lancées beaucoup plus à droite sur Neuilly-sur-Marne et
+Ville-Évrard, c'est-à-dire dans une direction qui n'avait point été
+étudiée.
+
+Il en résulta une confusion de mouvements des plus étranges. Mes
+voitures furent arrêtées au bas du plateau d'Avron par une batterie de
+mitrailleuses, qui stationnait sur la route. Les officiers tenaient un
+petit conseil fort animé sur le chemin à suivre; personne ne le
+connaissait, et cependant on n'était pas à deux kilomètres de Neuilly,
+point de ralliement. Un paysan finit par les tirer d'embarras en leur
+apprenant qu'ils n'avaient qu'à suivre tout droit.
+
+On avait perdu une demi-heure à délibérer... N'est-ce pas d'un comique
+navrant de voir des officiers qui ne peuvent se diriger à deux pas de
+Paris et sur un parcours de sept à huit kilomètres?
+
+L'affaire cependant se termina par un succès: la prise de Neuilly, de
+Ville-Évrard et de la Maison-Blanche. Mais l'intendance, qui peut-être
+n'avait point non plus su trouver son chemin, n'avait dirigé sur ce
+point aucune espèce de moyen de transport. En cela elle fut du reste
+imitée par les autres ambulances, de sorte que sur le lieu du combat il
+n'y avait que deux voitures: les miennes. Si j'avais pris une autre
+direction, si je n'avais pas été là, le général de division Favé, qui
+commandait l'artillerie de la troisième armée, n'aurait pu recevoir
+immédiatement un pansement convenable et être ramené en voiture à Paris,
+quand il fut frappé d'un éclat d'obus.
+
+Il est vrai qu'à notre retour, nous avons trouvé à Neuilly et à Nogent
+une foule de voitures et d'ambulanciers parfaitement inutiles sur ce
+point, et qui ne couraient pas de graves dangers à une lieue de la
+bataille.
+
+En revenant, je rencontrai un joli équipage protégé par deux drapeaux
+d'ambulance et rempli de beaux messieurs qui n'étaient que des curieux
+de la dernière heure. Tout était fini depuis longtemps.
+
+--Où en sommes-nous, major? me dit le maître de l'équipage; se bat-on
+toujours?
+
+--Oh! ne m'en parlez pas, c'est un vrai massacre.
+
+Le monsieur, tout pâle, tourna bride immédiatement et reprit ventre à
+terre le chemin de Paris.
+
+Dans la vie civile, un médecin est simplement qualifié de docteur. Dès
+qu'il touche à l'élément militaire, il est pour tout le monde un major,
+bien qu'il conserve les vêtements du pékin. Cependant un signe
+distinctif révélait mon individualité médicale. J'avais autour de ma
+casquette d'ambulance une bande de velours cramoisi encadrée de deux
+galons d'or. Cette simple bande suffisait pour me transformer en major,
+et les braves gens auxquels j'avais affaire étaient remplis pour moi de
+respect et d'attentions.
+
+C'était à Bondy: il faisait un froid terrible; j'étais à une batterie
+d'une dizaine de pièces de marine, des canons de 24, courts, et de 32 en
+fonte. La batterie était à cheval sur le canal et faisait un feu d'enfer
+sur Aunay et sur des corps prussiens qu'on voyait au loin.
+
+Il y avait là une vingtaine de mille hommes, s'étendant jusque vers le
+Bourget et manoeuvrant pour se mettre en position en vue d'une attaque
+qui du reste n'eut pas lieu ce jour-là, j'ignore pourquoi; mais ces
+manoeuvres inutiles durèrent toute la journée par une température
+sibérienne. Pour mon compte, j'étais absolument gelé.
+
+A dix pas, à gauche de la batterie, existait une maison isolée; le toit,
+les planchers avaient été entièrement défoncés et enlevés par les obus,
+un large trou, bouché par un débris de porte, faisait communiquer le sol
+avec la cave. S'il a fait du vent depuis, il ne doit rien en rester, car
+il suffisait de souffler sur les quatre murs, seuls vestiges encore
+debout, pour tout renverser par terre.
+
+Je voulus entrer dans cette masure pour m'abriter un peu. Un artilleur
+m'arrêta au passage.
+
+--Diable! avez-vous peur qu'on emporte les meubles?
+
+--Non, major, c'est que la cave est pleine.
+
+Et il me montra par un soupirail fermé au moyen d'un simple morceau de
+planche, trente barils de poudre et tous les projectiles pour le service
+de la batterie!
+
+Notez que nous étions à peine à deux cents mètres de la tranchée, et
+qu'une attaque des Prussiens, ou même un simple obus ripostant à notre
+artillerie, pouvaient faire sauter le canal, la batterie, la maison et
+tout ce qui était dans le voisinage. Il est impossible de pousser plus
+loin l'incurie.
+
+Un jour du commencement de décembre, j'étais au Moulin-Saquet. Nos
+troupes faisaient du côté de Choisy une reconnaissance assez meurtrière,
+car en fort peu de temps mes deux voitures furent pleines, sauf une
+place pour un blessé couché. On m'apporta alors un malheureux soldat
+atteint d'une variole excessivement grave et au septième jour.
+Naturellement, depuis qu'il en était atteint, il était resté sous la
+tente par un froid assez vif.
+
+Mes blessés avaient une peur affreuse de ce nouveau compagnon et me
+suppliaient de ne pas le mettre parmi eux, ce dont je n'avais du reste
+nulle envie. Je m'opposai donc absolument à ce que ce pauvre diable, qui
+fort probablement est mort quelques jours après, fût mis dans ma
+voiture.
+
+Alors survint un commandant, jurant, sacrant et m'ordonnant de
+transporter à l'hôpital ce malheureux. J'avais beau lui représenter
+qu'il n'était point humain d'exposer des hommes qui venaient de se faire
+bravement blesser, à contracter une maladie dont ils avaient plus de
+peur que des balles; que son varioleux pouvait, par son contact avec mes
+blessés, faire développer la maladie dans notre ambulance qui n'en avait
+pas un seul cas. Il n'en voulait point démordre, et je fus obligé de lui
+tirer ma révérence et lui brûlai la politesse en lui déclarant que je
+n'avais d'ordre à recevoir que de moi-même.
+
+
+
+
+VII
+
+
+Ainsi l'intendance et ce diable de commandant, qui se croyait beaucoup
+plus humain que moi, laissaient depuis sept jours ce malheureux se
+morfondre sous la tente, au lieu de le faire conduire à l'hôpital de
+Bicêtre, situé à deux pas du Moulin-Saquet et exclusivement réservé aux
+varioleux militaires. Combien de fois un pareil fait s'est-il reproduit
+avec cette admirable intendance, qui n'était jamais là où on avait
+besoin d'elle?
+
+A propos de variole, l'intendance avait un moyen bien intelligent de
+propager la maladie. Pendant le siége, on rencontrait souvent dans les
+rues des voitures de place portant un petit drapeau d'ambulance, et
+ornées d'un infirmier militaire, assis auprès du cocher. Ces voitures
+contenaient un ou deux varioleux qu'on conduisait à Bicêtre; les glaces
+étaient naturellement parfaitement closes.
+
+Quand le cocher rentrait à Paris à vide, le voyageur qui montait dans
+cette voiture infectée avait pour ses trente sous le plaisir de faire
+une petite promenade, et d'attraper par-dessus le marché une variole
+très-bien conditionnée.
+
+Avec un peu plus d'intelligence et d'humanité, l'intendance aurait
+consacré à ce service dangereux pour le public des voitures spéciales,
+mais que voulez-vous? on ne peut pas penser à tout! Cependant je suis
+bien certain que lorsqu'un intendant prenait une voiture de place, il
+avait soin de ne pas monter après un varioleux.
+
+Le lendemain de l'affaire de Buzenval, j'allais chercher des blessés.
+C'était la troisième fois, en trois jours, que je parcourais cette
+triste route. La veille de l'affaire, j'étais allé avec une seule
+voiture étudier le terrain où devait se passer le combat, de façon à
+savoir où je pourrais passer; car le jour d'une bataille il faut
+absolument renoncer à obtenir un renseignement sur le point où on se
+trouve. Les habitants disparaissent, et les combattants n'en savent pas
+un mot.
+
+Je fis ma seconde excursion le jour de l'affaire, et je ne fus pas long
+à compléter mon chargement. Enfin mon troisième voyage eut lieu le
+lendemain de la bataille; j'allais chercher un regain de blessés que je
+savais être à la ferme de la Fouilleuse.
+
+En passant à Rueil, je fus arrêté par un intendant qui me jura ses
+grands dieux qu'il n'y avait pas un blessé à Fouilleuse, et que je
+ferais tout aussi bien de ne pas aller plus loin: ce qui ne m'empêcha
+point de continuer ma route.
+
+A un kilomètre de la ferme, je dus m'arrêter; le terrain était tellement
+détrempé qu'il était impossible de faire avancer les voitures.
+Heureusement que je trouvai sur ce point un grand nombre de
+brancardiers, philosophiquement assis sur le bord de la route, et
+attendant probablement que les blessés les vinssent chercher.
+
+Un de leurs chefs, auquel je m'adressai, en mit une trentaine sous mes
+ordres avec leurs brancards. Nous partîmes dans la boue à mi-jambe.
+
+Je trouvai en arrivant un spectacle navrant: deux énormes granges
+étaient pleines de pauvres blessés, atteints depuis la veille. Ils
+reposaient sur un peu de paille.
+
+Une vingtaine de mulets, les cacolets repliés, étaient immobiles sous un
+hangar, pour montrer probablement que l'Intendance existe réellement.
+Dans un coin, au pied d'un mur, le cadavre d'un soldat fusillé pour
+avoir tiré sur son capitaine; ses mains liées derrière le dos
+indiquaient que sa mort était la punition d'un crime et non la mort d'un
+brave.
+
+Du reste, partout une confusion complète; personne ne donnait d'ordres,
+ou n'imprimait une direction nécessaire. Je distribuai mes hommes et je
+fis charger les brancards, ralliant autour de moi les blessés atteints
+aux bras ou dans une région qui leur permettait de me suivre à pied.
+
+Au bout d'un instant, j'étais entouré de gens de bonne volonté qui me
+demandaient des ordres pour pouvoir se rendre utiles. Je m'en défendis
+naturellement; leur bonne volonté ne suffisait pas, il fallait des
+brancards, et je n'en avais que pour les hommes que j'avais amenés avec
+moi.
+
+Comme j'allais partir, un pauvre soldat appela d'une voix altérée par la
+souffrance.
+
+--Major, allez-vous me laisser mourir là sans secours? J'ai la cuisse
+brisée depuis hier matin, et je n'ai pas encore été pansé.
+
+Vous pouvez croire que celui-là ne fut pas abandonné, et qu'il fit
+partie de mon cortége.
+
+Ici se place un fait qui mérite d'être noté. En avant de Fouilleuse, je
+trouvai deux fils télégraphiques recouverts de gutta-percha et
+simplement posés sur le sol à quelques mètres l'un de l'autre. Mon
+premier mouvement fut de les détruire, car ils me semblaient bien se
+diriger vers les points occupés par les Prussiens; mais comme il se
+pouvait qu'ils fussent à nous, je n'osai le faire, car c'est une chose
+grave que d'enlever les fils d'un télégraphe militaire. En rentrant à
+Rueil, je demandai à un officier si lesdits fils nous appartenaient. Il
+me répondit qu'il n'y en avait point eu de posés la veille de ce côté.
+
+Ainsi on s'était battu toute la journée sur les fils des Prussiens sans
+songer à les détruire, et leurs ordres passaient dans les jambes de nos
+soldats!
+
+Les brancardiers, que j'avais emmenés nonchalants et insouciants,
+revenaient pleins d'ardeur et d'entrain. Ils se sentaient activement
+dirigés, et il n'en fallait pas davantage pour stimuler leur nature
+française. Nous regagnâmes les voitures; j'avais ramené beaucoup plus de
+blessés que je n'en pouvais charger, mais je comptais que depuis mon
+départ d'autres véhicules avaient dû arriver. En effet, j'avisai d'abord
+deux grandes tapissières vides, très-convenables pour des blessés
+couchés. J'appelai leurs conducteurs. C'étaient deux espèces de
+déménageurs à l'air très-canaille, qui venaient beaucoup plus pour
+flâner que pour se rendre utiles.
+
+--Qu'est-ce qu'il y a?
+
+--Des blessés, que vous allez prendre dans vos voitures.
+
+--Des blessés? Je vais d'abord déjeuner et donner l'avoine aux chevaux;
+après ça, nous verrons.
+
+--Mon garçon, on déjeune ici quand les blessés sont soulagés.
+
+--Vous m'embêtez, vous que je ne connais pas; j'suis ici en société, et
+je ne prends pas les blessés des autres.
+
+--Brancardiers, enlevez ces deux voitures, chargez-les, et si ces deux
+polissons font la moindre résistance, flanquez-les-moi dans le fossé.
+
+Il y avait dans le fossé une jolie boue liquide, dont l'aspect donnait à
+réfléchir.
+
+Mes hommes déposèrent leurs brancards, s'élancèrent à l'assaut des
+voitures; en un instant les matelas furent rangés et les blessés en
+place. Les conducteurs avaient disparu, et en cela ils montrèrent une
+certaine prudence; les brancardiers étaient furieux, et il n'est pas sûr
+que j'eusse pu les empêcher de battre ces drôles.
+
+L'armée s'était retirée depuis la veille, et la ferme de la Fouilleuse,
+qui contenait encore un si grand nombre de nos blessés, était absolument
+sans défense; il n'y avait là que quelques gardes nationaux traînards,
+débandés ou fatigués. Les Prussiens se tenaient à une très-petite
+distance, invisibles derrière ce qui restait des murailles crénelées que
+nous avions eu tant de peine à enlever la veille. Rien ne les eût
+empêchés de venir enlever nos blessés qui étaient là abandonnés sans
+protection.
+
+Il est vrai que, de leur côté, ils avaient assez d'hommes hors de combat
+pour ne pas s'embarrasser des nôtres. Je dois leur rendre cette justice,
+qu'ils laissèrent passer nos convois sans tirer dessus. Les gardes
+nationaux débandés, qui s'étaient mêlés à nous, leur en donnaient
+presque le droit, car les drapeaux de Genève ne protégent les ambulances
+qu'à la condition de s'écarter des gens armés.
+
+En rentrant à Rueil, je retrouvai ce brave intendant qui croyait la
+Fouilleuse déserte, et je lui prouvai qu'il y avait encore beaucoup à
+faire pour vider entièrement ce triste dépôt.
+
+
+
+
+VIII
+
+
+Laissons pour un instant dans l'ombre le côté lugubre des ambulances; en
+cherchant un peu, nous trouverons dans ce sombre tableau quelques rayons
+de gaieté.
+
+On ne fait jamais en France un vain appel aux sentiments d'humanité;
+aussi les ambulances furent créées sous l'influence d'une véritable
+explosion de sentiments généreux. Cependant, si l'immense majorité des
+gens qui en firent partie se laissèrent guider par un pur entraînement
+du coeur, il faut bien avouer que certains _faiseurs_ exploitèrent la
+situation dans un but tout personnel et placèrent leur dévouement à de
+gros intérêts. J'ajouterai même que les plus ardents à la réclame ne
+furent pas toujours les plus empressés quand il fallut payer de sa
+personne.
+
+On dit que les médecins se dévorent volontiers entre eux; il est
+possible que cela soit un peu vrai; dans tous les cas, nous ne voulons
+pas que le public assiste à ces repas de famille, et nous gardons pour
+le huis clos nos exécutions. Ce n'est donc point ici que j'administrerai
+à quelques confrères (heureusement d'excessivement rares exceptions) la
+volée de bois vert qu'ils méritent pour avoir tiré deux moutures de leur
+sac d'ambulance. Je la réserve pour une autre occasion. Je me
+contenterai de chercher ailleurs le sujet de mes esquisses.
+
+Enfin, chez quelques ambulanciers, le sentiment humanitaire fut escorté
+d'un besoin de paraître si tapageur, d'une soif de vanité si ardente,
+que la reconnaissance publique ne leur doit plus grand'chose; ils se
+sont payés sur l'admiration de la foule.
+
+Pendant la guerre, de très-dignes serviteurs de Dieu ont, dans les rangs
+de nos soldats, rempli le rôle d'aumôniers avec un courage, une
+abnégation, une modestie qu'on ne saurait trop louer et qui leur ont
+mérité le respect de tous. Cependant, parmi eux, il en est un qui a
+trouvé le moyen d'horripiler, d'agacer jusqu'à l'exaspération tout ce
+qui a porté la croix des ambulances. C'est l'abbé Bauër; jamais on ne
+vit pareil appétit de réclame et de vaniteux tintamarre; ce n'était plus
+de l'appétit, mais une véritable _fringale_.
+
+L'abbé Bauër n'est point le seul qui ait frisé le ridicule à force
+d'exhiber sa personne sous forme d'ambulancier. Il y avait quelques
+autres cavalcadeurs; de jolis petits jeunes gens, montant de jolis
+petits chevaux, et qui auraient fait meilleure figure dans les rangs
+d'un escadron en bataille qu'à passer leur temps à caracoler le long des
+routes et sur les boulevards.
+
+Je me rappelle surtout l'un d'eux, que j'ai rencontré plusieurs fois,
+escortant des voitures d'ambulances qui auraient fort bien pu se passer
+de son escorte. Il s'était composé un costume de fantaisie très-coquet;
+son cheval me paraissait avoir reçu une singulière éducation. Quand il
+rencontrait un tas de boue, il s'y roulait immédiatement les quatre fers
+en l'air. Son cavalier semblait très au fait de cette habitude; il
+mettait lestement pied à terre et remontait froidement sur sa bête quand
+elle avait fini sa cabriole. Le soir, la bête avait déteint sur le
+cavalier, et ils se trouvaient l'un et l'autre recouverts d'une couche
+de boue parfaitement régulière, mais d'un effet désagréable à l'oeil.
+
+Un jour je me suis rencontré avec le comte de Montemerli; celui-là était
+un ambulancier sérieux et convaincu. On voyait qu'il avait à coeur de
+payer à la France la dette de reconnaissance contractée envers nous par
+l'Italie. Je crois bien qu'il a dû fournir un à-compte d'au moins trois
+francs de reconnaissance sur cette dette d'un milliard. C'est toujours
+cela. Il ne faut pas décourager les Italiens qui veulent du bien à la
+France: ils sont tellement nos obligés qu'ils nous détestent de tout
+leur coeur.
+
+M. de Montemerli était un ambulancier un peu rageur, mais d'aspect
+sentencieux. Il montait un cheval qui semblait aussi pénétré que son
+maître de l'importance de sa mission.
+
+Nos relations ont été très-courtes, mais parfaitement désagréables.
+J'avais coupé ses voitures, qui ne marchaient pas assez vite pour moi;
+il était furieux d'une pareille audace, et il voulait à toute force
+connaître mon nom pour s'en plaindre à son ami Trochu.
+
+--Ah M. Trochu est votre ami!... Alors veuillez donc en même temps lui
+dire de ma part que... etc.
+
+J'ignore s'il a fait ma commission, mais dans ce cas je crois qu'il a dû
+être assez mal reçu.
+
+Ce brave Italien le prit de si haut qu'en lui remettant ma carte, j'eus
+la douleur de l'envoyer un peu promener. Il est certain que ma présence,
+là où on fabriquait des blessés, était infiniment plus urgente que la
+sienne. Si j'avais suivi la file des équipages (il y en avait trois ou
+quatre cents), je serais arrivé le lendemain, tandis qu'en marchant à ma
+fantaisie, mes voitures arrivèrent en même temps que la tête de file.
+
+J'ai lu pendant le siége et la Commune des récits de certains
+ambulanciers qui m'auraient fait frissonner pour leurs précieuses
+personnes, si je n'avais parfaitement su que, dans l'histoire de leurs
+dangers, il y avait quatre-vingt-quinze pour cent de roman.
+
+Les obus éclataient si souvent à leurs pieds, que j'étais tout surpris
+qu'ils n'en trouvassent pas de temps en temps quelques éclats dans leurs
+poches. Les balles sifflaient tout le jour autour de leur tête; leur
+cheval fougueux les avait entraînés jusqu'auprès des Prussiens; ils
+avaient été presque faits prisonniers, etc.
+
+Il fallait véritablement qu'ils fussent protégés par un charme pour
+échapper chaque jour à d'aussi terribles dangers, car ils n'attrapaient
+même pas une bronchite.
+
+Ces ambulanciers vantards étaient heureusement fort peu nombreux, mais
+ils faisaient un tel bruit qu'on les croyait une légion. Si la guerre
+avait duré plus longtemps, ils auraient fini par rendre les ambulances
+tout à fait ridicules.
+
+Eh! messieurs, si vous trouvez que la bataille est un lieu trop
+dangereux, que la température y est trop élevée pour votre constitution,
+qui vous force à y aller? Restez chez vous et ne nous étourdissez pas de
+vos vantardises; si vous jugez que le danger n'est pas plus grand qu'il
+ne faut, faites votre devoir simplement, tranquillement, et sans crier
+vos prétendus exploits du haut de votre tête.
+
+La vérité, c'est que l'ambulancier est infiniment moins exposé que nos
+soldats, qui ne se prétendent pas des héros parce qu'ils ont vu le feu.
+Sur les points les plus dangereux, on est encore protégé en général par
+une ligne de combattants qui servent d'écran.
+
+On peut évidemment se trouver sur la route de quelque projectile qui se
+trompe d'adresse, comme cela est arrivé à un de mes confrères, dont la
+tête fut broyée par un obus, à Bagneux; mais ce sont là de rares
+exceptions. Évidemment, on a plus de chances de mortalité qu'en restant
+dans son lit, et on ne va pas là pour cueillir des noisettes. Mais, en
+résumé, le danger est moins grand qu'on pourrait le croire. Je sais que,
+pour mon compte, j'ai assisté à presque toutes les affaires, depuis le
+combat de Bagneux le 13 octobre jusqu'à la fin de la guerre, sans
+compter mes expéditions sous la Commune. Je n'ai, dans aucun cas, laissé
+aucune voiture d'ambulance s'avancer plus loin que les miennes, et le
+général Favé pourrait dire où elles étaient lorsque je l'ai pansé et
+ramené à Paris, le jour où il a été blessé. Cependant, je le déclare, je
+n'ai jamais sciemment couru un seul danger assez grand pour qu'il mérite
+la peine d'être raconté.
+
+Pourtant, un jour j'aurais bien pu brûler une chandelle sur l'autel de
+la chance; c'était pendant le bombardement. J'allais au Moulin-Saquet
+voir s'il n'y avait pas quelques blessés. J'avais descendu cette longue
+et rude pente qui constitue l'unique rue de Villejuif. Il tombait une
+petite pluie fine, il n'y avait pas un seul homme dans la rue, les
+sentinelles étaient sous les portes aussi bien que les chefs et les
+soldats.
+
+Arrivé au bas de la côte et avant de m'engager dans le mauvais chemin
+qui conduit de Villejuif au Moulin-Saquet, je demandai à un officier
+s'il y avait quelque affaire de ce côté, et si la redoute contenait des
+blessés. Sa réponse fut négative.
+
+--Vous avez donc bien peur de la pluie, que personne par ici ne met le
+nez hors des portes?
+
+--Ce n'est pas la pluie qui nous gêne.
+
+--Eh! quoi donc, alors?
+
+--C'est que les Prussiens ont une batterie directement en face de la
+rue, qui leur sert d'enfilade pour tirer sur Paris. Alors, vous
+comprenez, les obus qui passent nous enlèvent nos hommes, et c'est pour
+cela que nous les obligeons à ne pas sortir.
+
+--Mais je n'ai pas entendu un seul coup.
+
+--Vous avez de la chance. Après cela il est possible qu'ils soient en
+train de déjeuner.
+
+--Alors vous pensez qu'il n'est pas prudent d'attendre qu'ils aient pris
+leur café?
+
+--Je ne vous y engage pas.
+
+Je regardai le nez de maître Pierre; ce thermomètre si sensible
+marquait: tempête, et nous reprîmes au grand galop le chemin de Paris.
+
+Quand la batterie prussienne recommença son tir, nous étions hors
+d'atteinte. En réalité, nous n'avions couru aucun danger, puisque les
+Prussiens déjeunaient. Dix minutes plus tard, il n'en eût pas été tout à
+fait de même, et en tenant compte de la persistance que ces nobles
+ennemis mettaient à tirer sur nos hôpitaux, pendant le bombardement, il
+est fort probable qu'ils n'auraient point manqué notre voiture, malgré
+son drapeau.
+
+Les ambulances ont eu des morts, il est vrai, mais proportionnellement
+en fort petit nombre; en général d'humbles brancardiers, de dignes
+frères des écoles. On aurait dit que les projectiles allaient frapper
+les plus modestes pour que leurs victimes fussent plus vite oubliées.
+
+En effet, qui sait les noms de ces braves serviteurs de l'humanité?
+peut-être eux-mêmes ne s'en souviennent-ils plus. En quittant la livrée
+de notre société pour revêtir leur longue robe noire, ils perdent
+jusqu'à leur nom et l'échangent contre celui d'un patron en général si
+étrange, si invraisemblable, qu'il y aurait presque de la cruauté à les
+en poursuivre après leur mort en le gravant sur une tombe.
+
+L'immense majorité des ambulanciers s'est montrée pleine de bravoure et
+de dévouement modeste. Ils ont supporté les fatigues et le froid avec
+une constance qui leur a mérité la reconnaissance de nos soldats.
+
+
+
+
+IX
+
+
+Pendant le temps qui a séparé la paix avec la Prusse du régime de la
+Commune, les ambulances furent en partie désorganisées. Le service de
+bataille n'était plus nécessaire, et l'on pensait bien n'en avoir jamais
+besoin. L'ouverture des hostilités de cette épouvantable guerre civile
+vint presque nous surprendre.
+
+Faut-il l'avouer? Nous n'y apportions plus les mêmes sentiments. Contre
+la Prusse, nous étions entraînés par un élan patriotique qui nous
+conduisait au secours de nos soldats. Les ambulanciers qui revenaient du
+combat étaient tristes et mornes, même après le succès. Sous la Commune,
+les visages étaient indifférents; on y allait par habitude, un peu par
+curiosité, mais sans entrain.
+
+Je dis par curiosité; c'est qu'en effet l'aspect d'une bataille est une
+chose terrible et grandiose qui attire et entraîne comme les grands
+spectacles de la nature qu'on est rarement appelé à contempler plusieurs
+fois.
+
+Il faut bien le dire aussi: dans la guerre de la Commune, si le terrible
+formait le fond du tableau, souvent surgissaient des incidents où le
+burlesque jouait un rôle important.
+
+Comme dans les pièces de théâtre, le drame avait son comique.
+
+                   *       *       *       *       *
+
+Si l'intendance de l'armée régulière laissait à désirer dans la guerre
+contre la Prusse, l'intendance de la Commune était bien autrement
+incapable de rendre des services.
+
+Je suis persuadé que ces gens-là se préoccupaient surtout du profit
+personnel qu'ils pouvaient faire dans leur nouvelle situation, aussi
+tout allait à la diable et chacun tirait de son côté.
+
+Les frères May tenaient le sceptre de l'intendance, et l'aîné eut un mot
+qui peint bien toute cette bande.
+
+Un de mes amis a un fils qui, pendant le siége contre la Prusse, a fait
+son devoir dans la mobile. Il y avait attrapé des rhumatismes assez
+sérieux, il chercha à les utiliser pour ne pas servir sous la Commune.
+
+Mon ami connaissait May; il fut le trouver et le pria d'employer son
+fils dans les bureaux de l'intendance, lui exposant que son état de
+santé ne lui permettait pas de faire un service plus actif.
+
+--Votre fils est devenu malade en servant contre les Prussiens? C'est
+bien fait pour lui. Qu'est-ce qu'il allait f... là?
+
+                   *       *       *       *       *
+
+Quand je voulus reprendre mes caravanes sous la Commune, je me trouvai
+démonté. Pierre, mon fidèle cocher, qui avait échappé à toutes les
+mauvaises chances de nos expéditions contre la Prusse, avait eu la
+maladresse de se faire écraser bourgeoisement par un omnibus qui lui
+avait fêlé la tête et brisé une côte. Il était encore trop souffrant
+pour m'accompagner. Je n'avais plus que le cocher de M. Chevet, qui me
+conduisit dans la voiture Kerckoff que je montais ordinairement.
+
+La première fois que je sortis, c'était à l'affaire du rond-point des
+Bergères, là où les gardes nationaux ont si bien marché pour aller au
+feu, et ont tant couru pour en revenir. Ce fut dans cette journée que
+Flourens eut l'intelligence de se faire tuer. Quelle jolie débandade que
+cette première sortie des Communeux contre les Versaillais! Le
+Mont-Valérien tirait dessus sans leur faire grand mal; mais je crois
+qu'ils devançaient les obus à la course. C'était à se tordre de rire, de
+voir quels jarrets la peur donnait à ces ivrognes. Ils fuyaient, se
+heurtant, se bousculant, cahotant les uns sur les autres, jetant leurs
+armes pour mieux détaler. Je me souviens surtout d'un lieutenant saoûl
+et d'un sous-lieutenant tous deux aussi ivres l'un que l'autre, et qui
+trouvaient le moyen de courir, même quand ils roulaient par terre.
+
+Toute la bande s'enfuit jusqu'à Paris; les plus braves cependant
+s'arrêtèrent à Neuilly. Je ne sais plus le numéro de leurs bataillons;
+mais je les avais baptisés le bataillon des bidons vides. En effet,
+leurs bidons ressemblaient à ceux des Danaïdes, il n'y avait jamais rien
+dedans; les bouchons, reconnus absolument inutiles, étaient même
+supprimés.
+
+On se fait à tout, et l'habitude vient peut-être encore plus vite pour
+le danger que pour le reste. Ces hommes qui avaient fui, en proie à une
+terrible panique, finirent par s'habituer au feu, et montrèrent plus
+tard un courage qui a rendu cette abominable guerre si meurtrière.
+
+C'est ce jour-là qu'on cria pour la première fois: «Les Versaillais
+tirent sur nos ambulances!» C'était la monnaie de ce cri si connu des
+émeutiers: «On assassine nos frères!» Voilà ce qu'il y eut de vrai dans
+cette accusation.
+
+Les insurgés, dans leur fuite, avaient abandonné un canon et deux
+caissons sur le rond-point des Bergères. De jeunes voyous se glissèrent
+jusqu'à la pièce de canon et finirent par l'emmener. Restaient les deux
+caissons. Naturellement le Mont-Valérien tirait sur tout ce qui
+s'avançait pour s'en approcher.
+
+Il y avait beaucoup de blessés du côté de Nanterre, et il fallait passer
+sur le rond-point des Bergères pour les aller prendre. Cinq voitures de
+l'ambulance internationale se dirigèrent de ce côté. Arrivés aux
+dernières maisons près du rond-point, les communards s'abritèrent
+derrière les voitures pour s'approcher des caissons, et le Mont-Valérien
+fit feu. Mais comme on était à peine à 1 kilomètre de la forteresse, et
+que personne ne fut atteint, il est fort probable qu'on tirait à blanc,
+sans obus, et comme avertissement. Les voitures revinrent sur leurs pas.
+
+Je voulus tenter l'aventure; mais comme je n'avais pu obtenir des
+communeux qu'ils me privassent de leur escorte, je reçus le même
+accueil, et c'était tout naturel. Les voitures d'ambulances ne sont
+point destinées à servir de passe-port en pareille circonstance.
+
+Je n'insistai pas. Je me contentai de ramasser sur la route les débris
+de la bousculade qui venait d'avoir lieu. Il n'y avait qu'un seul blessé
+par coup de feu, les autres étaient des contusionnés et des écloppés,
+tous plus ou moins ivres naturellement.
+
+Il paraît que la peur est contagieuse. Mon cocher me déclara que je
+pouvais lui chercher un successeur et qu'il ne remettrait plus les pieds
+dans ces bagarres.
+
+
+
+
+X
+
+
+Le 5 avril, le fort d'Issy faisait un tel tapage, que je jugeai qu'il y
+avait quelque chose à faire de ce côté. Pierre, mon fidèle cocher, se
+tenait alors à peu près sur ses jambes et consentit à m'accompagner. Je
+trouvai le fort dans un pitoyable état; les obus de Versailles
+achevaient l'oeuvre des Prussiens. Les casernes effondrées ne pouvaient
+guère être utilisées que pour servir d'abri aux voitures derrière ce qui
+restait de leurs murailles. De rares gardes nationaux se tenaient près
+la porte d'entrée, un peu moins menacée que le reste. Les autres étaient
+dans les casemates; les batteries avaient leur service d'artillerie au
+complet et ne laissaient pas refroidir leurs pièces, il faut leur rendre
+cette justice.
+
+C'était chose bien curieuse que les figures qui peuplaient ces ruines.
+Quelles têtes! quelles physionomies! Comme le vice avait enluminé tous
+ces visages, en attendant que le crime leur imprimât son dernier cachet!
+C'étaient des hommes de Belleville. Si on les avait déshabillés de leurs
+sordides vêtements, on n'aurait pas trouvé deux chemises pour cinq
+hommes. Dans le nombre quelques figures honnêtes, effarouchées, amenées
+là de force, faisaient tache sur le reste.
+
+--J'te parie une chopine que je dégotte la maison qui est là-bas, à côté
+du grand peuplier.
+
+--J'parie que non.
+
+--Ça y est, j'ai touché.
+
+--Ma revanche! A mon tour!
+
+--Ça va pour une chopine.
+
+--J'ai mis dedans.
+
+--Jouons la belle.
+
+Total, quatre coups de canon pour une chopine. Quelles belles journées
+ils passaient au fort d'Issy!
+
+Un obus versaillais, en éclatant, jeta deux artilleurs à terre; l'un
+était tué, l'autre avait la cuisse gauche fortement entamée.
+
+--Allez chercher du monde pour enlever ces hommes, dis-je à un
+artilleur.
+
+Il alla à une casemate et revint un instant après.
+
+--Y veulent pas venir.
+
+J'allai à mon tour à la casemate. Si je leur avais dit: «Messieurs,
+veuillez avoir l'obligeance de venir emporter vos camarades,» ils
+m'auraient ri au nez. Je dus leur parler leur langage pour me faire
+obéir.
+
+--Ah çà! vous ne voulez pas venir relever vos camarades; eh bien! quand
+on vous cassera la g..., qui est-ce qui vous ramassera?
+
+Immédiatement j'eus plus d'hommes qu'il ne m'en fallait. Dix minutes
+plus tard, j'en avais encore bien davantage. Il y eut un coup de
+casemate, c'est-à-dire qu'un obus vint éclater dans leur terrier, ce qui
+me donna assez de besogne, et tous s'empressèrent de déguerpir.
+
+                   *       *       *       *       *
+
+Il était curieux de constater les petits soins et les égards que
+témoignaient les communeux aux chirurgiens.
+
+--Major, ne passez pas par là; la place est dangereuse.--Major, venez
+dans notre casemate; elle est plus sûre que les autres, etc.
+
+Quand ils nous répondaient, leurs mains montaient jusqu'au képi, et nos
+ordres étaient exécutés avec un empressement et une ponctualité qui
+contrastaient fort avec la complète irrévérence qu'ils témoignaient à
+leurs chefs. Chacun d'eux s'empressait pour nous servir d'aide, et ils
+s'acquittaient de leur tâche avec beaucoup de zèle.
+
+Je n'ai point l'intention, bien entendu, d'attribuer leur conduite à
+notre égard à un sentiment des convenances ou à un respect de la
+hiérarchie sociale. Pas le moins du monde; pour eux, c'était une affaire
+d'intérêt. Ils se disaient: «Si on nous casse quelque chose, le major
+est là; il faut donc avoir soin de lui et ne pas lui être désagréable;
+sans quoi il pourrait bien nous planter là, et alors qui donc aurait
+soin des fils de nos mères?»
+
+Pendant que j'étais au fort, on vint m'avertir qu'un de mes confrères
+venait d'être blessé au fond de cette espèce de ravin qui sépare les
+forts d'Issy et de Vanves, là où le chemin de fer forme un énorme
+remblai percé en bas d'une voûte où passe la route. Je me rendis près de
+lui.
+
+En revenant au fort, je fus témoin d'un splendide spectacle. J'étais sur
+une hauteur dominant les accidents de terrain qui s'étendent jusqu'à
+Clamart. Il faisait un temps magnifique, et la verdure, qui était encore
+une nouveauté, fournissait au paysage des contrastes de tons pleins de
+vigueur. A mes pieds, avait lieu un combat de tirailleurs très-animé.
+Les tranchées, remplies de combattants, faisaient un feu nourri. Chaque
+buisson, chaque butte de terre abritaient un ou plusieurs hommes. On
+fuyait, on revenait à la charge, et de tous côtés des combats partiels
+étaient engagés.
+
+La grosse voix du canon se mêlait aux pétillements de la fusillade. A ma
+gauche et un peu en arrière, une pièce de sept, sans épaulement et à
+peine abritée par un mur, faisait un feu continu, auquel les Versaillais
+ne daignaient pas répondre. Le principal servant de cette pièce était un
+gamin d'une quinzaine d'années, qui se démenait comme un diable dans
+cette fumée.
+
+Puis un peu partout des arbres ébranchés, rompus, tordus par les
+projectiles; des canons démontés, des affûts et des caissons brisés,
+tous ces résidus des batailles étaient épars sur un sol fouillé par les
+obus.
+
+Je restai là une demi-heure, immobile, absorbé dans une contemplation
+profonde, analysant ces terribles contrastes d'une nature splendide
+dorée par le soleil et de cette oeuvre de destruction que les hommes
+accomplissaient avec rage.
+
+Quand je retrouvai Pierre, il n'était pas content; il paraît qu'un obus
+était venu tuer deux chevaux auprès de sa voiture, et il prétendait que
+nos blessés avaient un vif désir de gagner Paris.
+
+En rentrant chez moi, un incident des plus prosaïques me donna une
+émotion d'un autre genre. Ma famille contemplait avec horreur un
+volumineux insecte grisâtre qui se prélassait sur mon dos. Il fut
+immédiatement massacré, et je le regrette; j'aurais voulu le conserver,
+embroché d'une épingle, comme un souvenir de ces bons communeux. Il
+était d'une taille majestueuse; on comprenait que la longue existence de
+ce malfaiteur s'était écoulée calme et paisible, et que jamais on
+n'avait dérangé ses habitudes par d'indiscrètes perquisitions.
+
+J'y pensai pendant huit jours, et, aussitôt qu'une démangeaison me
+rappelait le monstre, je courais dans ma chambre et je m'empressais de
+m'assurer si j'avais eu affaire à un misanthrope isolé, fuyant la
+société de ses semblables, ou s'il avait émigré en famille.
+
+Le 7 avril, Versailles attaqua le pont de Neuilly et s'en empara.
+L'affaire fut très-meurtrière pour les communeux. Il ne fallait point
+espérer passer par l'avenue de la Grande-Armée pour arriver sur le lieu
+du combat. Je pris l'avenue du Roule, que je dus bien vite abandonner.
+Il était deux heures, et jusqu'à cinq heures je fis d'inutiles
+tentatives pour me rapprocher du pont.
+
+Les routes transversales étaient aussi impraticables que les chemins
+directs, les balles tombaient partout. Cela tenait à la nature des
+clôtures des maisons du parc de Neuilly, qui sont entourées non par des
+murs, mais par des grilles. Dans une rue, on n'a qu'à se méfier des deux
+extrémités; sur les côtés, les maisons vous protégent. Mais, au milieu
+de ces grillages, les projectiles arrivent de fort loin et de tous les
+côtés.
+
+Quand le feu se ralentissait, nous allions en avant; mais, quand il
+reprenait son intensité, nous étions obligés de battre en retraite, et
+Pierre ne se faisait pas prier pour cela.
+
+Vers quatre heures, j'avais gagné, près de la Seine, l'extrémité du
+boulevard Bineau. J'étais abrité derrière une maison et au repos. Trois
+voitures de l'Internationale vinrent me rejoindre, et, en raison de
+l'expérience puisée dans mes précédentes tentatives, on me chargea de
+diriger l'expédition. Pendant une accalmie, nous prîmes le boulevard de
+la Saussaie parallèle à la Seine, et qui conduit vers le pont. Nous
+marchions à pied, près des voitures, lorsque, en arrivant aux rues qui
+avoisinent le pont, une fusillade violente nous coupa la route; les
+cochers de l'Internationale poussèrent en avant au galop pour échapper
+aux balles qui nous arrivaient par le travers; ils tombèrent au beau
+milieu des Versaillais, qui débouchaient sur ce point.
+
+Les Versaillais ne faisaient, bien entendu, aucun mal aux ambulanciers
+qui arrivaient au milieu d'eux, mais ils les utilisaient pour emmener
+leurs blessés.
+
+On ne manqua pas de clabauder encore ce jour-là que les troupes de
+Versailles tiraient sur les ambulances; c'était bien sans le savoir, et
+la Commune pouvait revendiquer au moins la moitié des projectiles.
+
+J'avais arrêté ma voiture, et tous les ambulanciers de l'Internationale
+qui étaient avec moi se trouvaient absolument coupés des leurs. Comme je
+ne voulais point aller coucher à Versailles, malgré le désir que j'avais
+d'être utile à nos braves soldats, je tournai bride, et cette fois
+revins à Paris, par la porte des Ternes, absolument à vide de blessés.
+
+Rentrer à vide après un combat qui a duré toute la journée, c'était
+presque une honte; aussi, j'allai m'installer à la porte Maillot, dans
+la maison d'un marchand de vin, qui faisait le coin de l'avenue de la
+Grande-Armée et du boulevard Pereire. Au bout d'une demi-heure, grâce au
+bombardement de la Porte-Maillot, qui était l'objectif des obus et des
+boîtes à balles, j'avais de quoi remplir ma voiture, et je rentrai
+définitivement et pour la dernière fois, car Pierre me signifia qu'il
+n'avait plus aucune espèce de goût pour le métier d'ambulancier; et, le
+lendemain, pour échapper à mes tentatives de séduction, il se sauvait à
+la campagne de son maître avec le cheval et la voiture.
+
+J'étais donc démonté de mes chevaux et de mes voitures. Je n'en cherchai
+pas d'autres, car, je dois l'avouer, j'étais dégoûté des communeux, et
+s'il est une façon stupide de risquer sa vie, c'est de la risquer pour
+de pareilles gens.
+
+
+
+
+XI
+
+
+On éprouva le 22 mai une joie folle en apprenant l'entrée à Paris des
+troupes de Versailles, mais on sentait que l'acte final serait terrible
+et que l'agonie du monstre coûterait des flots de sang.
+
+Je prévoyais depuis longtemps que j'aurais, au moment de la crise, un
+assez mauvais quart d'heure à passer, car j'habite la rue de Rivoli,
+entre l'Hôtel de Ville et la place Vendôme, c'est-à-dire entre les deux
+points les plus importants de la résistance. Cette ligne devait
+certainement devenir le théâtre d'un terrible engagement. Je prévoyais
+l'envahissement de nos habitations, et, comme conséquence naturelle, le
+pillage, car les communeux n'ont point l'habitude de sortir les mains
+vides des appartements qu'ils visitent.
+
+Hélas! en les considérant seulement comme de vulgaires malfaiteurs,
+j'avais, je l'avoue, de grandes illusions sur leur compte.
+
+Le lundi matin, la fermentation de la populace du quartier était
+intense; l'écume révolutionnaire quittait le ruisseau pour prendre le
+haut du pavé; des barricades énormes s'élevaient à tous les coins de rue
+et coupaient en plusieurs endroits la rue de Rivoli. Des mégères, des
+femmes hors de sexe, s'accrochaient aux passants et les obligeaient à
+collaborer à leurs barricades. Des dames bien vêtues et qui fuyaient
+effarouchées, étaient ramenées, la baïonnette au dos, et devaient porter
+leur pavé. Il leur fallait prendre la pelle et la pioche, emplir des
+sacs à terre, enfin contribuer à une défense qui eût été leur ruine en
+cas de victoire.
+
+Pour protéger notre maison, j'avais fait arborer mon drapeau
+d'ambulance, et je disposai bientôt de moyens de secours pour une
+trentaine de blessés. Je transformai les locataires de la maison en
+ambulanciers, et j'obtins d'un officier qu'une sentinelle fût placée à
+notre porte pour en interdire l'entrée à tout homme armé, ou que je ne
+voudrais pas admettre. Grâce à ces précautions, nous passâmes la journée
+du lundi d'une façon assez calme.
+
+Le mardi 23, les tribulations commencèrent. La maison qui touche celle
+que j'habite est occupée par un grand magasin de confection: la maison
+_Henri IV_. Depuis le matin, un fédéré, ancien commis du confectionneur,
+rôdait autour de la maison, cherchant un moyen de détruire
+l'établissement dont il avait été renvoyé. Voilà le moyen que cet
+ingénieux scélérat finit par découvrir. Il voit un vieillard infirme à
+une fenêtre du cinquième étage. Il crie qu'on vient de tirer sur lui et
+fait feu lui-même sur le vieillard, qui ferme sa fenêtre en proie à une
+véritable terreur. J'étais présent; j'ai suivi toutes les phases de ce
+guet-apens, et un seul coup de fusil a été tiré: celui du fédéré.
+
+Au bruit de la détonation, au cri du fédéré, les gardes nationaux
+entourent la maison comme un troupeau de bêtes féroces, en criant: A
+mort! En un instant la porte est enfoncée et la maison envahie. Le
+promoteur de cette sauvagerie, au lieu d'aller au cinquième chercher son
+agresseur imaginaire, se rue sur la devanture de son ancien patron; elle
+est bientôt brisée et le magasin mis au pillage. En un instant les
+différents appartements sont envahis, tous les meubles broyés, saccagés
+et jetés par les fenêtres. On trouve le pauvre vieillard, ce qui n'était
+pas bien difficile, on l'entraîne, et, par un miracle que je ne
+m'explique guère, il ne fut pas massacré.
+
+Les autres locataires étaient absents de la maison, et parmi eux je
+compte des amis dont je voyais piller les meubles avec un véritable
+chagrin. Assisté de mon personnel, nous tentâmes auprès des chefs
+d'impuissants efforts pour leur faire comprendre que personne n'avait
+tiré par les fenêtres.
+
+Les chefs étaient gris, les soldats ivres, et rien ne pouvait arrêter
+leur rage. La concierge avait disparu avec ses enfants, et le misérable
+qui avait organisé le pillage vint la réclamer chez moi morte ou vive.
+Je fis respecter notre maison et mis dehors les fédérés qui voulaient
+nous soumettre à leurs perquisitions. Pendant ce temps l'un d'eux était
+allé à la Commune et rapportait un ordre parfaitement en règle, signé de
+deux membres de cette bande; il enjoignait de brûler toute maison dont
+les habitants feraient opposition à la Commune ou tireraient par les
+fenêtres sur les gardes nationaux. Cette dernière phrase était d'une
+autre écriture que le reste de l'arrêté, et ajoutée après coup pour la
+circonstance. Jusqu'à ce moment il n'y avait eu qu'un seul incendie,
+celui du ministère des finances, allumé depuis la veille au soir, les
+fédérés ne s'étaient pas encore accoutumés à brûler nos maisons, ils y
+mettaient provisoirement des formes.
+
+Je courus à l'homme au papier: un sinistre drôle, simple garde, une face
+pâle et froidement féroce, encadrée d'une barbe jaune.
+
+--Vous voulez brûler la maison?
+
+--Oui, citoyen, voilà l'ordre.
+
+--Vous ne l'exécuterez pas, je vous en réponds. Ne voyez-vous pas qu'à
+côté existe une ambulance, et que l'incendie la dévorera inévitablement?
+
+--Déménagez votre ambulance.
+
+--Je ne déménagerai pas, et vous ne brûlerez rien.
+
+--Vous allez voir cela.
+
+Je me mis à la poursuite des chefs et leur démontrai combien il était
+stupide de brûler une ambulance pour venger un coup de fusil qui n'avait
+pas été tiré.
+
+Mais le gredin me suivait partout, son papier à la main, et aussitôt
+qu'il l'avait montré, les chefs les mieux disposés me tournaient le dos
+en me disant:
+
+--C'est un ordre de la Commune; que voulez-vous que j'y fasse?
+
+Leur attitude ne m'était pas très-hostile. Ce jour-là on devinait qu'ils
+ne tenaient pas absolument à voir la maison brûler, mais ils ne se
+sentaient pas le courage de s'opposer à un ordre de la Commune.
+
+Ils semblaient dire: Tirez-vous de là comme vous pourrez; ici chacun
+joue sa peau, défendez la vôtre. Tout ce que nous pouvons faire, c'est
+de ne pas nous en mêler. Ils craignaient de passer pour suspects et
+tremblaient devant ce chiffon de papier qui représentait la Commune.
+
+J'avisai alors des gardes nationaux habitant le voisinage; je leur fis
+comprendre que l'incendie de cette maison était l'incendie du quartier,
+et que ce qu'ils possédaient serait naturellement détruit. En effet, la
+rue du Roule, qui forme encoignure avec le magasin de Henri IV, est
+formée de vieilles constructions, de maisons petites, enchevêtrées les
+unes dans les autres et qui auraient brûlé d'autant mieux jusqu'à la
+dernière qu'il était défendu sous peine de mort de jeter un seau d'eau
+sur une maison incendiée.
+
+Parmi ces gardes nationaux j'en remarquai deux qui semblaient plus
+énergiques que les autres. Je les pris à part:
+
+--Alors vous êtes décidés à vous laisser brûler?
+
+--C'est vrai que c'est embêtant; mais qu'est-ce que vous voulez que nous
+y fassions?
+
+--Il faut se défendre; la vie d'un homme aujourd'hui ne pèse pas une
+once; vous avez des armes; envoyez une balle dans la tête ou un coup de
+baïonnette au premier qui s'avancera pour mettre le feu; le second
+réfléchira avant de risquer l'aventure.
+
+Le sinistre gredin qui voulait nous brûler n'osait rien dire. Je sentais
+qu'il avait peur de perdre la partie et l'enjeu était sérieux. Je
+profitai de son hésitation; je montai la tête de mes hommes, et ils
+finirent par me dire:
+
+--C'est entendu, le premier qui approchera recevra son affaire.
+
+Je les plaçai devant la porte.
+
+--Restez là et ne bougez pas. Tenez seulement un quart d'heure, je me
+charge du reste.
+
+Je sentais bien que je venais d'obtenir un simple répit. L'incendiaire
+s'était glissé dans la foule, et j'allais avoir sur les bras le rebut de
+cette canaille.
+
+Je courus le quartier et je fus assez heureux pour mettre la main sur un
+commandant d'état-major, homme qui semblait bien élevé et qui n'était
+point ivre.
+
+--Colonel (il sourit de la façon la plus gracieuse), venez donc me
+dégager, on veut brûler mon ambulance.
+
+Je me gardai bien de dire que c'était la maison voisine; en pareil cas
+on ment avec un aplomb superbe. Du reste j'avais flatté sa vanité en le
+traitant de colonel; il était à moi.
+
+--Brûler votre ambulance! c'est absurde; je ne veux pas de cela.
+
+Je fis venir les officiers et le porteur de l'ordre communeux, qui était
+en train d'exciter la foule. Appuyé par le commandant qui entrait tout à
+fait dans mon plan de résistance, je me fis écouter. Je représentai à
+ces brutes qu'il était odieux de songer à brûler une ambulance
+renfermant leurs frères, qui avaient versé leur sang pour leur cause,
+etc.
+
+La vérité, c'est qu'en fait de blessés je n'avais qu'une quarantaine de
+matelas sauvés du pillage des maisons voisines et un pauvre diable
+qu'ils avaient entraîné de force et qui s'était dit blessé pour leur
+échapper.
+
+Je n'ai pas besoin d'ajouter qu'ils ignoraient entièrement cette
+circonstance, car je n'avais laissé pénétrer personne dans ma maison;
+quand la porte s'ouvrait, et Dieu sait combien de fois ils tirèrent la
+sonnette, j'étais toujours là pour en barrer l'entrée; et j'avais été
+assez heureux pour repousser toutes les réquisitions ou perquisitions
+qu'ils avaient voulu me faire subir depuis la veille.
+
+Le vent tournait de mon côté, j'étais maître de la situation. Dans ces
+bagarres, un rien suffit pour vous perdre ou vous sauver; si vous ne
+dominez pas la foule, elle vous écrase. La majorité était passée de mon
+côté et j'étais absolument disposé à m'en servir.
+
+Alors l'homme au papier composa et me dit:
+
+--Je consens à ne pas mettre le feu, mais à la condition que tout sera
+détruit et brisé dans la maison.
+
+--Il y a une heure que vos amis sont là-haut, et vous devez comprendre
+que sous ce rapport il ne doit plus rien rester à faire.
+
+--Major, ajouta un capitaine, il faut que ces gens-là soient punis
+(punis de quoi, mon Dieu!). Prenez tout le linge pour votre ambulance,
+et le vin de la cave pour vos blessés.
+
+--J'accepte avec reconnaissance, seulement pour l'instant j'ai assez du
+linge qui est sur le trottoir, et comme le vin est dans la cave je sais
+où j'en pourrai faire prendre si j'en ai besoin. Mais je crois qu'il
+serait bon, maintenant que nous nous entendons, de faire descendre les
+hommes qui sont dans la maison.
+
+--Prenez deux gardes et faites évacuer.
+
+Je montai, suivi de deux chenapans qui m'aidèrent à faire déguerpir
+leurs camarades, et je fermai la porte de la rue. Je fis porter à mon
+ambulance la literie et le linge qui jonchaient le trottoir. Le tout fut
+mis en sûreté.
+
+--Maintenant, capitaine, il nous faudrait un piquet autour de la maison.
+L'homme au papier n'est plus là, mais il pourrait revenir quand je serai
+parti.
+
+--Combien vous faut-il d'hommes?
+
+--Huit.
+
+--Prenez-en cinq.
+
+J'en ajoutai trois aux deux dont j'étais sûr, et je me permis de donner
+la consigne. Les officiers me laissaient faire.
+
+--Mes enfants, si vous ne voulez pas que vos familles rôtissent cette
+nuit, il faut faire feu sur tout individu qui s'approchera pour brûler
+la maison. S'il a un ordre écrit, envoyez-moi chercher, et nous
+tâcherons qu'il ne soit pas exécuté.
+
+--Major, soyez tranquille.
+
+Malgré cette assurance, moi et mes ambulanciers,--de braves négociants
+de ma maison, MM. Morel, Raulin et Schevetzer--nous exerçâmes une
+surveillance active.
+
+Pour ce jour-là nous étions sauvés.
+
+Un détail assez comique de l'expulsion que je fis des pillards qui
+occupaient la maison.
+
+Comme je descendais l'escalier, suivi de ces honnêtes citoyens qui
+venaient de remplir leurs poches, un d'eux, grand drôle ayant une
+certaine autorité sur la bande, me dit:
+
+--Major, je veux qu'on me fouille. J'ai tout cassé, c'est vrai, c'était
+pour le bien, mais je ne suis pas un voleur, et je veux qu'on visite mes
+poches.
+
+--Vous fouiller? vous! je le défends, vous êtes un honnête homme, ces
+choses-là se peignent sur la figure, et je réponds de votre probité.
+
+Un instant après, comme je faisais enlever et transporter au loin les
+débris de planches, de meubles et d'enseignes qui jonchaient le
+trottoir, et dont on aurait pu, au moyen d'une simple allumette, faire
+un feu de joie dangereux, je vis mon homme au milieu de la rue, dans un
+cercle de gardes nationaux. Il avait quitté sa vareuse, son gilet, et se
+disposait à quitter le reste, quand je m'approchai.
+
+--Que faites-vous donc là?
+
+--Je veux qu'on me fouille, me dit-il, avec la ténacité d'un ivrogne.
+
+--Qui donc fait ici à cet homme l'injure de douter de sa probité? Je
+réponds de lui, c'est un honnête citoyen. Habillez-vous, personne
+n'oserait vous fouiller.
+
+Au fond je ne l'aurais pas juré, et c'était probablement la première
+fois qu'on lui rendait un pareil hommage. Mais honnête ou non, je venais
+de m'attacher un homme dévoué, et pour le moment j'avais besoin de gens
+dévoués.
+
+O ma bonne casquette d'ambulance, c'est à toi que je devais ce résultat!
+Grâce au prestige que tu exerces sur des gens qui sentent que dans un
+instant ils peuvent avoir besoin de chirurgien, j'ai pu me faire
+entendre de ces brutes avinées, et sauver notre maison et celle de mes
+amis!
+
+Vers le soir, le misérable qui avait organisé le pillage amena sa femme
+à l'ambulance, nous priant de lui donner l'hospitalité pour la nuit. Je
+n'étais pas là, et n'osai ensuite la mettre dehors; mais je sentis que
+c'était un espion, chargé de rendre compte de nos sentiments politiques,
+et de nous faire fusiller si les Versaillais avaient été repoussés. Ces
+gens-là ne me pardonnaient pas d'avoir fait échouer l'incendie de la
+maison.
+
+
+
+
+XII
+
+
+Le mercredi matin 24 mai, un de mes ambulanciers, M. Raulin, était sur
+la porte vers six heures, lorsque passe un grand vieillard, la barbe
+grise, l'oeil creux, sans uniforme, et portant le képi fédéré.
+
+--Vous ne vous attendiez pas à celle-là, dit-il avec un sourire, en
+montrant les Tuileries qui flambaient.
+
+--Ma foi, non, répond l'ambulancier; je n'aurais jamais cru la Commune
+aussi canaille.
+
+--Aussi canaille! Ah! c'est comme cela, vous allez avoir de mes
+nouvelles.
+
+On me prévient de ce qui vient de se passer. Je cours après ce vieux
+sauvage qui retournait à grands pas du côté de l'Hôtel de Ville, et je
+cherche à savoir ce qu'il appelle «de ses nouvelles.»
+
+--Citoyen, un de vos hommes vient de traiter la Commune de canaille.
+Voici ma carte,--il me montra une grande carte verte qui lui conférait
+un grade que je ne me donnai pas la peine de constater;--je vais à
+l'Hôtel de Ville, et dans une demi-heure votre maison flambera.
+
+Décidément, j'étais prédestiné à l'auto-da-fé.
+
+--C'est impossible qu'il vous ait dit une pareille chose, vous aurez mal
+entendu. C'est un bon citoyen, incapable de dire du mal de la Commune.
+
+--J'ai parfaitement entendu, vous êtes des réactionnaires, et on va
+faire votre affaire.
+
+--Vous ne savez pas ce que vous dites, nous sommes des ambulanciers, et
+on ne brûle pas une ambulance.--Et je recommençai pour lui mon discours
+de la veille; c'était de l'éloquence absolument perdue.
+
+--Je me fiche pas mal des ambulances! dans une demi-heure vous
+flamberez, voilà mon dernier mot.
+
+Je déployai toutes mes séductions pour apaiser cet atroce vieillard, et
+c'était difficile, car il appartenait à la catégorie des fanatiques.
+Après de longs et inutiles pourparlers, je lui dis:
+
+--Sur l'honneur, avez-vous entendu le propos que vous attribuez à mon
+ambulancier?
+
+--Sur l'honneur, je l'ai entendu.
+
+Quelle belle garantie pour moi que l'honneur de ce vieux misérable! Du
+reste j'étais bien sûr de sa véracité.
+
+--Alors c'est un traître qui m'a trompé, il faut qu'il soit puni;
+fusillons-le.
+
+--A la bonne heure, vous êtes un vrai citoyen, nous pouvons nous
+entendre; fusillons-le.--Et son oeil gris éteignit ses flammes.
+
+--C'est entendu, il faut le fusiller, mais pas tout de suite, quand tout
+sera fini; vous comprenez que j'en ai besoin pour soigner mes blessés.
+
+La contestation recommença de plus belle, et j'eus toutes les peines du
+monde à obtenir un sursis de vingt-quatre heures. Il l'accorda enfin,
+c'est tout ce que je demandais, car je me disais tout bas: Mon bon ami,
+dans vingt-quatre heures, ce n'est plus vous qui fusillerez, ce sera
+nous.
+
+Du reste, mon parti était pris; si je n'avais pas pu le dompter, je
+l'aurais fait entrer chez moi pour exécuter la sentence, je fermais la
+porte, et il y a gros à parier qu'elle ne se serait jamais ouverte pour
+lui. Avant tout, je voulais sauver moi et les miens.
+
+Pendant cette algarade, je constatai que le piquet que j'avais fait
+placer pour garder la maison voisine, avait disparu. Les troupes étaient
+changées. J'allai trouver un capitaine pour lui demander mon piquet, lui
+disant les motifs qui nécessitaient sa présence.
+
+--Eh bien, quand on brûlerait la maison, voilà-t-il pas! Vous aurez de
+la chance si on ne brûle pas tout le quartier. _Vous vous êtes si bien
+conduits dans l'arrondissement!_
+
+Je trouvai épique la réponse de ce malfaiteur estimant que c'étaient les
+honnêtes gens qui se conduisaient mal.
+
+--Très-bien, si vous trouvez bon de brûler vos blessés, je n'ai rien à
+dire, c'est votre affaire et je ne m'en mêle plus.
+
+La porte de la maison menacée était ouverte, la concierge me dit que les
+insurgés s'occupaient à la piller; j'étais consterné. Les laisser faire
+me semblait extrêmement dangereux, car depuis la veille l'incendie était
+passé dans leurs habitudes, et ils auraient mis le feu en se retirant;
+les faire déguerpir me paraissait assez difficile, je n'avais plus mon
+escorte de la veille pour me protéger, et ce jour-là les fusils
+partaient seuls, surtout quand on devenait gênant ou indiscret. Je
+montai l'escalier et trouvai les misérables en train de faire des
+paquets des objets à leur convenance. Je pris un air très-affairé et me
+mis à crier aux différents étages:
+
+--Allons, citoyens, ce n'est pas notre place ici; les Versaillais
+arrivent. Descendons, vos frères vous attendent... etc.
+
+Et je descendis l'escalier suivi de toute la bande, que l'annonce des
+Versaillais impressionnait désagréablement. Je tenais la rampe, le
+menton sur l'épaule, regardant en arrière si quelque canon de fusil
+n'était point braqué sur moi. Enfin, lorsque j'eus gagné la rue sain et
+sauf et que j'eus fermé la porte, je poussai un gros soupir de
+satisfaction et de soulagement. Mon stratagème avait réussi, c'était un
+grand danger d'évité.
+
+La plupart de ces bandits emportaient leur butin, et pas un n'eut
+l'idée, bien entendu, de demander à être fouillé.
+
+Une heure après, une fusillade intense se fit entendre en face de la
+maison. Les barricades étaient occupées et fonctionnaient avec un tapage
+infernal.
+
+Tout à coup survient une panique, on frappe à la porte, et je vois
+apparaître l'homme au pillage de la veille, dont je savais alors le nom:
+Michel, du 12e bataillon, demeurant rue Saint-Germain-l'Auxerrois. Je
+savais également alors qu'il avait appartenu comme commis au magasin de
+confection.
+
+--On bat en retraite, cachez-moi.
+
+--Je n'admets pas ici d'hommes armés non blessés; vous avez le temps
+encore de vous sauver ailleurs, partez. Cependant je vous permets de
+revenir avec une balle dans le ventre.
+
+Et je le mis à la porte.
+
+--Mais vous ne voyez donc pas, dit-il en s'en allant, que tout brûle?
+
+Alors un spectacle terrible s'offrit à mes yeux. La maison qui fait face
+à la mienne, le nº 79, commençait à brûler; les flammes sortaient en
+hautes gerbes par les neuf fenêtres du premier. Or, comme il était
+défendu sous peine de mort de lancer un seau d'eau sur le feu, nous
+calculions combien de temps, à peu près, il faudrait à cette
+maison,--occupée par un grand magasin de parfumerie et par une maison de
+deuil,--pour flamber du haut en bas et pour nous jeter sa fournaise en
+s'écroulant sur nous.
+
+Il paraît que le truc du coup de fusil tiré par les fenêtres a du bon,
+car c'est encore le prétexte qui fut invoqué dans ce cas. Peut-être que
+l'homme au papier, qui tenait si fort à nous brûler la veille, avait
+voulu utiliser son ordre de la Commune.
+
+Voici comment les choses se passèrent après la comédie du coup de fusil.
+Ils pénétrèrent dans la maison en enfonçant la porte, et montèrent au
+premier chez un banquier. Ils signifièrent au peu de locataires qui
+restaient de sortir de suite sans prendre la peine de rien emporter,
+parce que la maison allait être brûlée.
+
+Ils étaient, m'a-t-on dit, trois gredins; l'un gardait la porte en bas,
+les deux autres accomplissaient leur sinistre besogne.
+
+L'un d'eux amassait, au milieu des meubles, les papiers du banquier,
+disposait méthodiquement ces éléments de combustion et plaçait dessous
+une allumette. Pendant ce temps, l'autre écoutait avec une parfaite
+indifférence les supplications des locataires affolés qui le
+conjuraient, à genoux, de ne pas les ruiner. Pour toute consolation, il
+leur disait: «Si dans cinq minutes vous n'êtes pas partis, l'escalier
+sera en feu et vous grillerez tous.»
+
+Il y avait dans la maison une jeune fille phthisique et presque
+mourante, mademoiselle D..., qui ne pouvait quitter son lit; sa mère
+poussait des cris déchirants.
+
+--Mais ma fille ne vous a rien fait, vous ne pouvez pas cependant la
+brûler vive.
+
+--Je n'y puis rien, il faut que la maison soit brûlée; cependant il est
+possible que je sauve la fille, mais à la condition que vous me jurerez
+que, si je suis pris, vous me ferez obtenir ma grâce pour vous avoir
+rendu ce service.
+
+Stupide brute, qui croit mériter sa grâce parce qu'il s'arrête à son
+onzième crime au lieu de compléter la douzaine!
+
+La mère jura, bien entendu, et le misérable partit avec la jeune fille
+sur son dos, et il exigea que la soeur de la mourante montât la garde,
+armée de son fusil, à la porte de la rue jusqu'à son retour.
+
+Nous recueillîmes deux des victimes dans notre ambulance. Leur fortune
+était contenue dans un mouchoir noué par les coins. Les autres
+n'emportaient que les vêtements qui les couvraient.
+
+Nous étions réunis dans la cour, devisant assez tristement en attendant
+le moment où l'incendie nous obligerait à nous enfuir par les toits, car
+par la rue il n'y fallait pas songer: elle était sillonnée par un
+véritable ouragan de projectiles. Les balles, les obus, les boulets
+sifflaient, éclataient avec un tapage infernal, heurtaient la porte,
+crevaient les devantures des magasins, en brisaient les glaces, et cela
+depuis huit heures du matin jusqu'à cinq heures du soir.
+
+Nous écoutions cette tempête avec une véritable indifférence; une seule
+chose nous préoccupait: le feu, car non-seulement nous perdions beaucoup
+ou même tout par le feu, mais encore il nous fallait exécuter, avec nos
+femmes et nos enfants, un voyage à travers les toits. Et, malgré les
+explorations auxquelles nous, les hommes, nous nous étions préalablement
+livrés, je n'avais vu bien nettement que les dangers du voyage aérien,
+mais je n'en connaissais véritablement pas l'issue. La seule possible,
+était une étroite croisée fermée de deux gros barreaux de fer, et nous
+manquions d'outils pour les faire sauter. Et encore après avoir réussi à
+ouvrir cette voie, nous ne savions pas du tout où elle aboutissait. Tout
+le monde avait fui ou se cachait dans les caves.
+
+Chacun de nous avait fait son petit sac contenant ses valeurs et ses
+objets précieux. Chacun était prêt à se l'attacher aux flancs, à quitter
+pour toujours son foyer, et à courir sur les toits vers l'inconnu.
+
+Il y a quelque chose de bien profondément mélancolique dans le dernier
+regard qu'on jette sur les meubles auxquels on dit adieu. A chacun d'eux
+se rattache un souvenir, une habitude. On les considère en quelque sorte
+comme des membres de la famille, et l'argent ne peut remplacer les
+souvenirs.
+
+De temps en temps, l'un de nous montait dans la maison pour surveiller
+les progrès de l'incendie. On s'approchait des fenêtres en rampant sur
+les parquets, de peur d'être aperçu des fédérés. J'avais assez de la
+farce du coup de fusil tiré des fenêtres, je voulais en éviter la
+troisième édition.
+
+Le feu gagnait toujours; la maison n'était qu'un immense brasier,
+alimenté par les pommades et les essences du parfumeur, et qui nous
+rôtissait à travers la rue.
+
+Comme si nous n'avions pas eu assez de sujets de crainte, nous
+constations, à droite et à gauche de notre maison, d'énormes panaches de
+fumée colorée qui annonçaient d'autres incendies, et, comme il nous
+était impossible de sortir pour nous assurer du point précis où ils
+étaient allumés, nous redoutions d'être pris entre trois feux.
+
+Enfin, un cri retentit: Vive la ligne! Je ne sais si vous avez jamais
+fait partie d'un groupe de naufragés; mais, dans ce cas, rappelez-vous
+la sensation que vous avez ressentie au cri de: Terre! quand vous avez
+vu le rivage. C'est exactement avec le même bonheur que nous entendîmes:
+Vive la ligne! car c'était pour nous le salut, c'était l'extinction de
+l'incendie, c'était la mort de la Commune, c'était surtout la revanche.
+
+
+FIN
