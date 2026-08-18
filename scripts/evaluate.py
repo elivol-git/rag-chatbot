@@ -16,6 +16,9 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
+# Corpus text is UTF-8; Windows consoles often are not (cp1255, cp1252, ...).
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
 from src.config import settings  # noqa: E402
 from src.llm import chat  # noqa: E402
 from src.prompts import build_prompt  # noqa: E402

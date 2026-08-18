@@ -83,7 +83,7 @@ Adding your own material: drop `.md`, `.txt`, or `.pdf` files into
 
 | Variable | Default | Meaning |
 |---|---|---|
-| `OLLAMA_HOST` | `http://localhost:11434` | Ollama endpoint |
+| `OLLAMA_HOST` | `http://127.0.0.1:11434` | Ollama endpoint — keep the literal IP, see troubleshooting |
 | `LLM_MODEL` | `llama3.1` | Answer generation model |
 | `EMBED_MODEL` | `nomic-embed-text` | Embedding model (768-dim) |
 | `DOCUMENTS_DIR` | `./data/documents` | Source documents |
@@ -91,7 +91,7 @@ Adding your own material: drop `.md`, `.txt`, or `.pdf` files into
 | `CHUNK_SIZE` | `800` | Max characters per chunk |
 | `CHUNK_OVERLAP` | `50` | Characters carried across chunk boundaries |
 | `TOP_K` | `4` | Chunks retrieved per query |
-| `MIN_SCORE` | `0.30` | Cosine floor; below it the bot refuses instead of guessing |
+| `MIN_SCORE` | `0.62` | Cosine floor; below it the bot refuses instead of guessing |
 | `FLASK_PORT` | `5000` | API port |
 
 ## API
@@ -168,6 +168,9 @@ nothing above the similarity floor.
 | Every answer is "I don't have that in my knowledge base." | `MIN_SCORE` too high for your corpus, or ingestion never ran. |
 | Answers are vague / miss the point | Raise `TOP_K`, or raise `CHUNK_SIZE` so passages carry more context. |
 | First question is slow | Ollama is loading `llama3.1` into memory; later calls are much faster. |
+| Every Ollama call takes ~2s longer than it should | `OLLAMA_HOST` is set to `localhost`. On Windows that resolves to `::1` first, and Ollama binds IPv4 only, so every request pays a connect-failure timeout. Use `http://127.0.0.1:11434` — measured 2.17s → 0.08s per query embedding. |
+| Retrieval returns nothing (or nonsense) right after a process starts | Ollama's first embed call in a fresh process can return an all-zero vector, which makes every cosine score 0. `src/embeddings.py` detects zero vectors, retries, and raises `EmbeddingError` rather than storing or querying with them. |
+| `UnicodeEncodeError` when ingesting or evaluating | A non-UTF-8 Windows console. Both entry points call `sys.stdout.reconfigure(encoding="utf-8")`; if you wrap them in your own script, do the same. |
 | `frontend not built` from `/` | Run `npm run build` in `frontend/`, or use the Vite dev server. |
 | Wikipedia fetch returns 429 | The corpus script backs off and retries; re-run it to pick up missing files. |
 

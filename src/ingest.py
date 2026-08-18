@@ -99,6 +99,9 @@ def ingest(rebuild: bool = False, verbose: bool = True) -> dict[str, Any]:
 
 
 def main() -> int:
+    # Document names and text are UTF-8; Windows consoles often are not.
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
     parser = argparse.ArgumentParser(description="Ingest documents into the vector store")
     parser.add_argument(
         "--rebuild", action="store_true", help="discard the existing index and rebuild"

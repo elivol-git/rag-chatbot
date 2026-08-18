@@ -7,6 +7,8 @@ a whole class of scale bugs.
 
 from __future__ import annotations
 
+import time
+
 import numpy as np
 import requests
 
@@ -14,6 +16,7 @@ from .config import settings
 
 BATCH_SIZE = 32
 TIMEOUT = 120
+ZERO_VECTOR_RETRIES = 3
 
 # nomic-embed-text is trained with asymmetric task prefixes: stored passages
 # and incoming questions are embedded differently. Applied only for that model
@@ -36,12 +39,17 @@ def _normalize(matrix: np.ndarray) -> np.ndarray:
     return (matrix / norms).astype(np.float32)
 
 
-def _embed_batch(texts: list[str]) -> list[list[float]]:
+def _request_batch(texts: list[str]) -> list[list[float]]:
     url = f"{settings.ollama_host}/api/embed"
     try:
         response = requests.post(
             url,
-            json={"model": settings.embed_model, "input": texts},
+            json={
+                "model": settings.embed_model,
+                "input": texts,
+                # Keep the embed model resident; a cold load costs ~2s per query.
+                "keep_alive": "30m",
+            },
             timeout=TIMEOUT,
         )
         response.raise_for_status()
@@ -56,6 +64,31 @@ def _embed_batch(texts: list[str]) -> list[list[float]]:
     if not vectors:
         raise EmbeddingError(f"Ollama returned no embeddings: {payload}")
     return vectors
+
+
+def _has_zero_vector(vectors: list[list[float]]) -> bool:
+    return any(not any(value for value in vector) for vector in vectors)
+
+
+def _embed_batch(texts: list[str]) -> list[list[float]]:
+    """Embed one batch, rejecting the all-zero vectors Ollama sometimes returns.
+
+    The first embed request a process makes can come back as a zero vector while
+    the model is still warming up. A zero vector is silently catastrophic: every
+    cosine score becomes 0, so retrieval degrades to arbitrary chunks (or, with a
+    similarity floor, refuses everything). Retry, then fail loudly.
+    """
+    for attempt in range(ZERO_VECTOR_RETRIES):
+        vectors = _request_batch(texts)
+        if not _has_zero_vector(vectors):
+            return vectors
+        time.sleep(0.5 * (attempt + 1))
+
+    raise EmbeddingError(
+        f"Ollama returned a zero embedding vector for '{settings.embed_model}' "
+        f"after {ZERO_VECTOR_RETRIES} attempts. The model may have failed to load; "
+        "check `ollama ps` and the Ollama server log."
+    )
 
 
 def embed_texts(texts: list[str]) -> np.ndarray:
