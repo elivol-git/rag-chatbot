@@ -12,14 +12,14 @@ data/documents/  ──ingest──►  chunks ──embed──►  vector stor
                                              │          │
                             MCP client ──► search_knowledge_base
                                              │
-                                    prompt + context ──► Ollama (llama3.1) ──► grounded answer
+                              prompt + context ──► Ollama (aya-expanse) ──► grounded answer
 ```
 
 ## Stack
 
 | Layer | Choice |
 |---|---|
-| LLM | `llama3.1` via local Ollama |
+| LLM | `aya-expanse:8b` via local Ollama (multilingual — answers Hebrew and English) |
 | Embeddings | `bge-m3` via Ollama (1024-dim, multilingual — the corpus is Hebrew and English) |
 | Vector store | Hand-rolled: `embeddings.npy` (L2-normalized float32) + `chunks.json` + `manifest.json`, brute-force cosine via dot product |
 | API | Flask (`/api/health`, `/api/ask`, `/api/ingest`, `/api/sources`) |
@@ -34,7 +34,7 @@ the MCP tool both call `retrieve()`; neither re-implements search.
 Prerequisites: Python 3.12, Node 18+, [Ollama](https://ollama.com) running.
 
 ```bash
-ollama pull llama3.1
+ollama pull aya-expanse:8b
 ollama pull bge-m3
 
 python -m venv .venv
@@ -110,7 +110,7 @@ needed to answer questions.
 | Variable | Default | Meaning |
 |---|---|---|
 | `OLLAMA_HOST` | `http://127.0.0.1:11434` | Ollama endpoint — keep the literal IP, see troubleshooting |
-| `LLM_MODEL` | `llama3.1` | Answer generation model |
+| `LLM_MODEL` | `aya-expanse:8b` | Answer generation model (multilingual) |
 | `EMBED_MODEL` | `bge-m3` | Embedding model (1024-dim, multilingual) |
 | `DOCUMENTS_DIR` | `./data/documents` | Source documents |
 | `VECTOR_STORE_DIR` | `./data/vector_store` | Index location |
@@ -210,7 +210,7 @@ nothing above the similarity floor.
 | `/api/health` shows `degraded` | Empty index (run ingestion) or Ollama unreachable. |
 | Every answer is "I don't have that in my knowledge base." | `MIN_SCORE` too high for your corpus, or ingestion never ran. |
 | Answers are vague / miss the point | Raise `TOP_K`, or raise `CHUNK_SIZE` so passages carry more context. |
-| First question is slow | Ollama is loading `llama3.1` into memory; later calls are much faster. |
+| First question is slow | Ollama is loading the model into memory; later calls are much faster. If generation stays slow, check `ollama ps` — with both the LLM and the embedding model resident, one can be pushed onto the CPU. |
 | Every Ollama call takes ~2s longer than it should | `OLLAMA_HOST` is set to `localhost`. On Windows that resolves to `::1` first, and Ollama binds IPv4 only, so every request pays a connect-failure timeout. Use `http://127.0.0.1:11434` — measured 2.17s → 0.08s per query embedding. |
 | Retrieval returns nothing (or nonsense) right after a process starts | Ollama's first embed call in a fresh process can return an all-zero vector, which makes every cosine score 0. `src/embeddings.py` detects zero vectors, retries, and raises `EmbeddingError` rather than storing or querying with them. |
 | `UnicodeEncodeError` when ingesting or evaluating | A non-UTF-8 Windows console. Both entry points call `sys.stdout.reconfigure(encoding="utf-8")`; if you wrap them in your own script, do the same. |

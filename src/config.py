@@ -62,7 +62,7 @@ class Settings:
 settings = Settings(
     # 127.0.0.1 rather than localhost: see the note in .env.example.
     ollama_host=os.getenv("OLLAMA_HOST", "http://127.0.0.1:11434").rstrip("/"),
-    llm_model=os.getenv("LLM_MODEL", "llama3.1"),
+    llm_model=os.getenv("LLM_MODEL", "aya-expanse:8b"),
     embed_model=os.getenv("EMBED_MODEL", "nomic-embed-text"),
     documents_dir=_path("DOCUMENTS_DIR", "./data/documents"),
     vector_store_dir=_path("VECTOR_STORE_DIR", "./data/vector_store"),
