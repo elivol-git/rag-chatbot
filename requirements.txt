@@ -8,3 +8,6 @@ python-docx==1.1.2
 python-pptx==1.0.2
 mcp==1.4.1
 pytest==8.3.4
+# WSGI server for the container. Marked off on Windows: gunicorn's worker model
+# is POSIX-only, and the local dev flow there is `python -m src.app`.
+gunicorn==23.0.0; sys_platform != "win32"

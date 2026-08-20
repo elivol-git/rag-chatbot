@@ -1,0 +1,37 @@
+services:
+  rag:
+    build: .
+    image: rag-chatbot
+    ports:
+      # Host port is configurable because 5000 is often already taken.
+      - "${HOST_PORT:-5001}:5000"
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      # Ollama runs on the host, not in this container: 127.0.0.1 from inside
+      # the container is the container itself, so the .env value is overridden.
+      OLLAMA_HOST: http://host.docker.internal:11434
+    extra_hosts:
+      # Docker Desktop resolves host.docker.internal on its own; this line is
+      # what makes the same compose file work on Linux.
+      - "host.docker.internal:host-gateway"
+    volumes:
+      # The corpus and the built index stay on the host: no re-ingest after a
+      # rebuild, no 21MB of vectors baked into the image, and documents dropped
+      # into data/documents are visible to /api/ingest immediately.
+      - ./data/documents:/app/data/documents
+      - ./data/vector_store:/app/data/vector_store
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - |
+          import sys, urllib.request
+          sys.exit(0 if urllib.request.urlopen("http://127.0.0.1:5000/api/health", timeout=5).status == 200 else 1)
+      interval: 30s
+      timeout: 10s
+      start_period: 15s
+      retries: 3
+    restart: unless-stopped

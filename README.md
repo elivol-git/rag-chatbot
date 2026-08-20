@@ -61,6 +61,36 @@ Frontend development with hot reload (Flask must also be running):
 cd frontend && npm run dev      # http://localhost:5173, proxies /api to Flask
 ```
 
+## Running in Docker
+
+The image carries the Flask API and the built UI. Ollama is **not** in it — the
+container talks to the Ollama already running on your host, so the models you
+have pulled and whatever GPU you have keep working unchanged.
+
+```bash
+docker compose up --build       # http://127.0.0.1:5001
+docker compose logs -f          # gunicorn + request log
+docker compose down
+```
+
+Prerequisites are the same two `ollama pull` commands and an ingested index —
+`python -m src.ingest` on the host, or `POST /api/ingest` once the container is
+up. `data/documents` and `data/vector_store` are bind-mounted, so the index
+lives on the host: rebuilding the image never costs a re-ingest, and documents
+dropped into `data/documents` are visible to the container immediately.
+
+| Detail | Value |
+|---|---|
+| Host port | `5001`, override with `HOST_PORT=8080 docker compose up` |
+| Ollama address | `http://host.docker.internal:11434`, set by compose over the `.env` value |
+| Server | gunicorn, 1 worker × 8 threads, 600s timeout (CPU generation of a long answer outlasts the 30s default) |
+| Config | `.env` is passed through `env_file` and is optional; defaults in `src/config.py` cover every key |
+
+`.env` sets `OLLAMA_HOST=http://127.0.0.1:11434` for host runs, which inside a
+container would mean the container itself. Compose overrides that key, and
+`load_dotenv()` does not overwrite variables that are already set, so the
+override wins.
+
 ## Ingestion
 
 ```bash
